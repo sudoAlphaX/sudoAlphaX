@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I am [sudoAlpha](https://github.com/sudoAlpha)
+### I am [sudoAlpha](https://github.com/sudoAlphaX)
 
 - 🔭 I’m currently working on [instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
 - 🌱 I’m currently learning Python
