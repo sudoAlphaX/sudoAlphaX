@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Python
 
 📫 How to reach me:
-  1. Discord - [@sudoAlpha]([http](https://discord.com/users/705624271308849224)
+  1. Discord - [@sudoAlpha](https://discord.com/users/705624271308849224)
   2. Telegram - [@su_Alpha](https://t.me/su_alpha)
   3. Twitter DM - [@sudoAlphaX](https://x.com/sudoAlphaX)
   4. Instagram Direct - [@sudoAlphaX](https://www.instagram.com/sudoAlphaX)
