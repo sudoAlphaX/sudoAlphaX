@@ -10,7 +10,7 @@
   3. Twitter DM - [@sudoAlphaX](https://x.com/sudoAlphaX)
   4. Instagram Direct - [@sudoAlphaX](https://www.instagram.com/sudoAlphaX)
 
-Find my GPG public key - [sudoAlpha Public Key](https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/sudoAlpha.asc)
+Find my PGP public key - [sudoAlpha Public Key](https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/sudoAlpha.asc)
  
 <!--
 - 👯 I’m looking to collaborate on ...
