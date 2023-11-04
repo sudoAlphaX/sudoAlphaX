@@ -12,7 +12,7 @@
   5. Reddit - [sudoAlphaX](https://www.reddit.com/u/sudoAlphaX)
 
 🌐 Socials:
-  1. Subreddit - [sudoAlphaX][sudoAlphaX](https://www.reddit.com/r/sudoAlphaX)
+  1. Subreddit - [sudoAlphaX](https://www.reddit.com/r/sudoAlphaX)
   2. Twitter - [@sudoAlphaX](https://x.com/sudoAlphaX)
   3. Instagram - [@sudoAlphaX](https://www.instagram.com/sudoAlphaX)
   4. Telegram Channel - [@sudoAlphaX](https://t.me/sudoalphax)
