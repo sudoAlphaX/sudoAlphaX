@@ -17,7 +17,11 @@
   3. Instagram - [@sudoAlphaX](https://www.instagram.com/sudoAlphaX)
   4. Telegram Channel - [@sudoAlphaX](https://t.me/sudoalphax)
 
-🔑 Import my PGP public key - [sudoAlpha Public Key](https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/sudoAlpha.asc)
+🔑 Import my PGP public key: `gpg --keyserver keys.openpgp.org --recv-keys A2012A6402F551C0FEF1CFDDC5B33EC44CE68144`
+
+💾 Download the key instead - [sudoAlpha's Public Key](https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/sudoAlpha.asc)
+
+🔏 Verify PGP signature - `A201 2A64 02F5 51C0 FEF1  CFDD C5B3 3EC4 4CE6 8144`
  
 <!--
 - 👯 I’m looking to collaborate on ...
