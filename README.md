@@ -2,9 +2,9 @@
 
 - 🧑‍💻 Coding as a hobby
 
-- 🔭 Currently working on [instagram-redact](https://github.com/sudoAlphaX/instagram-redact) and [git-rename-commits](https://github.com/sudoAlphaX/git-rename-commits)
+- 🔭 Currently working on [instagram-redact](https://github.com/sudoAlphaX/instagram-redact) and [git-rename-commits](https://github.com/sudoAlphaX/git-mass-scripts)
 
-- 🌱 I’m currently learning Python and Bash scripting (with [git-rename-commits](https://github.com/sudoAlphaX/git-rename-commits))
+- 🌱 I’m currently learning Python and Bash scripting (with [git-mass-scripts](https://github.com/sudoAlphaX/git-mass-scripts))
 
 📫 How to reach me:
 
