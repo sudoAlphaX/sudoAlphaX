@@ -12,8 +12,8 @@
 
 📫 Contact me:
 
-![Discord - sudoalpha](https://img.shields.io/badge/Discord-sudoalpha-5865f2?logo=discord)
-![Telegram - @su_Alpha](https://img.shields.io/badge/Telegram-%40su__Alpha-24a1de?logo=telegram)
+[![Discord - sudoalpha](https://img.shields.io/badge/Discord-sudoalpha-5865f2?logo=discord)](https://discord.com/users/705624271308849224)
+[![Telegram - @su_Alpha](https://img.shields.io/badge/Telegram-%40su__Alpha-24a1de?logo=telegram)](https://t.me/su_Alpha)
 [![X (Twitter) - @sudoAlphaX](https://img.shields.io/twitter/follow/sudoalphax?label=@sudoAlphaX)](https://twitter.com/sudoAlphaX)
 ![Instagram - @sudoAlphaX](https://img.shields.io/badge/Instagram-%40sudoAlphaX-deeppink?logo=instagram)
 ![Reddit - u/sudoAlphaX](https://img.shields.io/badge/Reddit-u%2FsudoAlphaX-ff4500?logo=reddit&labelColor=white)
