@@ -15,8 +15,8 @@
 [![Discord - sudoalpha](https://img.shields.io/badge/Discord-sudoalpha-5865f2?logo=discord)](https://discord.com/users/705624271308849224)
 [![Telegram - @su_Alpha](https://img.shields.io/badge/Telegram-%40su__Alpha-24a1de?logo=telegram)](https://t.me/su_Alpha)
 [![X (Twitter) - @sudoAlphaX](https://img.shields.io/twitter/follow/sudoalphax?label=@sudoAlphaX)](https://twitter.com/sudoAlphaX)
-![Instagram - @sudoAlphaX](https://img.shields.io/badge/Instagram-%40sudoAlphaX-deeppink?logo=instagram)
-![Reddit - u/sudoAlphaX](https://img.shields.io/badge/Reddit-u%2FsudoAlphaX-ff4500?logo=reddit&labelColor=white)
+[![Instagram - @sudoAlphaX](https://img.shields.io/badge/Instagram-%40sudoAlphaX-deeppink?logo=instagram)](https://www.instagram.com/sudoalphax)
+[![Reddit - u/sudoAlphaX](https://img.shields.io/badge/Reddit-u%2FsudoAlphaX-ff4500?logo=reddit&labelColor=white)](https://www.reddit.com/user/sudoAlphaX)
 
 <a href="https://github.com/sudoAlphaX">
   <img height="200"align="center" src="https://github-readme-stats.vercel.app/api?username=sudoAlphaX&show_icons=true&theme=github_dark&show=prs_merged,prs_merged_percentage" />
