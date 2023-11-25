@@ -52,6 +52,14 @@
 
 🔑 Import my PGP public key: `gpg --keyserver keys.openpgp.org --recv-keys A2012A6402F551C0FEF1CFDDC5B33EC44CE68144`
 
-💾 Download the key instead - [sudoAlpha's Public Key](https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/sudoAlpha.asc)
+<br>
+
+💾 Download the key instead:
+
+<a href="https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/sudoAlpha.asc">
+<img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD"/>
+</a>
+
+<br>
 
 🔏 Verify PGP signature - `A201 2A64 02F5 51C0 FEF1  CFDD C5B3 3EC4 4CE6 8144`
