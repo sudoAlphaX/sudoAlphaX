@@ -1,4 +1,4 @@
-### Hi there 👋, I am [Alpha](https://github.com/sudoAlphaX)
+## Hi there 👋, I am [Alpha](https://github.com/sudoAlphaX)
 
 ![SudoAlphaX GitHub User stars](https://img.shields.io/github/stars/sudoAlphaX?color=yellow&label=Stars)
 ![sudoAlphaX GitHub followers](https://img.shields.io/github/followers/sudoAlphaX?color=green&label=Followers)
