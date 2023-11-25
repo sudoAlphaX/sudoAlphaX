@@ -1,5 +1,9 @@
 ### Hi there 👋, I am [Alpha](https://github.com/sudoAlphaX)
 
+![SudoAlphaX GitHub User stars](https://img.shields.io/github/stars/sudoAlphaX?color=yellow&label=Stars)
+![sudoAlphaX GitHub followers](https://img.shields.io/github/followers/sudoAlphaX?color=green&label=Followers)
+![sudoAlphaX GitHub Profile Views](https://komarev.com/ghpvc/?username=your-sudoAlphaX&label=Profile+views)
+
 - 💻 Coding as a hobby
 
 - 🔭 Currently working on [instagram-redact](https://github.com/sudoAlphaX/instagram-redact) and [git-rename-commits](https://github.com/sudoAlphaX/git-mass-scripts)
