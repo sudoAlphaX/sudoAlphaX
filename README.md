@@ -39,11 +39,12 @@
 </p>
 
 <h1 align="left">Socials</h1>
+
 <p align="left">
-  <a href = https://www.reddit.com/r/sudoAlphaX><i class="ci ci-reddit ci-3x"></i></a>&nbsp;
-  <a href = https://twitter.com/sudoAlphaX><i class="ci ci-twitter ci-3x"></i></a>&nbsp;
-  <a href = https://www.instagram.com/sudoAlphaX><i class="ci ci-instagram ci-3x"></i></a>&nbsp;
-  <a href = https://t.me/sudoalphax><i class="ci ci-telegram ci-3x"></i></a>
+  <a href = https://twitter.com/sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/twitter/twitter.svg" width=46 /></a>&nbsp;
+  <a href = https://www.reddit.com/r/sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/reddit/reddit.svg" width=46 /></a>&nbsp;
+  <a href = https://www.instagram.com/sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/instagram/instagram.svg" width=46 /></a>&nbsp;
+  <a href = https://t.me/sudoalphax><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/telegram/telegram2.svg" width=46 /></a>
 </p>
 
 <br>
@@ -54,8 +55,3 @@
 💾 Download the key instead - [sudoAlpha's Public Key](https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/sudoAlpha.asc)
 
 🔏 Verify PGP signature - `A201 2A64 02F5 51C0 FEF1  CFDD C5B3 3EC4 4CE6 8144`
-
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/gh/dheereshagrwal/colored-icons@master/ci.min.css"
-/>
