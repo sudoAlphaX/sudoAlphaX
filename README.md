@@ -19,7 +19,7 @@
 [![Reddit - u/sudoAlphaX](https://img.shields.io/badge/Reddit-u%2FsudoAlphaX-ff4500?logo=reddit&labelColor=white)](https://www.reddit.com/user/sudoAlphaX)
 
 <a href="https://github.com/sudoAlphaX">
-  <img height="200"align="center" src="https://github-readme-stats.vercel.app/api?username=sudoAlphaX&show_icons=true&theme=github_dark&show=prs_merged,prs_merged_percentage" />
+  <img height="201"align="center" src="https://github-readme-stats.vercel.app/api?username=sudoAlphaX&show_icons=true&theme=github_dark&show=prs_merged,prs_merged_percentage" />
 </a>
 <a href= "https://discord.com/users/705624271308849224">
   <img height="200" align="center" src="https://lanyard.cnrad.dev/api/705624271308849224?theme=dark&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing..." />
