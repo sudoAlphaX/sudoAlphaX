@@ -14,8 +14,8 @@
 
 [![Discord - sudoalpha](https://img.shields.io/badge/Discord-sudoalpha-5865f2?logo=discord)](https://discord.com/users/705624271308849224)
 [![Telegram - @su_Alpha](https://img.shields.io/badge/Telegram-%40su__Alpha-24a1de?logo=telegram)](https://t.me/su_Alpha)
-[![X (Twitter) - @sudoAlphaX](https://img.shields.io/twitter/follow/sudoalphax?label=@sudoAlphaX)](https://twitter.com/sudoAlphaX)
-[![Instagram - @sudoAlphaX](https://img.shields.io/badge/Instagram-%40sudoAlphaX-deeppink?logo=instagram)](https://www.instagram.com/sudoalphax)
+[![X (Twitter) - @sudoAlphaX](https://img.shields.io/twitter/follow/sudoalphax?label=%40sudoAlphaX)](https://twitter.com/sudoAlphaX)
+[![Instagram - @sudoalphax](https://img.shields.io/badge/Instagram-%40sudoalphax-deeppink?logo=instagram)](https://www.instagram.com/sudoalphax)
 [![Reddit - u/sudoAlphaX](https://img.shields.io/badge/Reddit-u%2FsudoAlphaX-ff4500?logo=reddit&labelColor=white)](https://www.reddit.com/user/sudoAlphaX)
 
 <a href="https://github.com/sudoAlphaX">
@@ -72,9 +72,9 @@
 💾 Download the key instead:
 
 <a href="https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/sudoAlpha.asc">
-<img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD"/>
+  <img src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU Privacy Guard&logoColor=0093DD"/>
 </a>
 
-<br>
-
 🔏 Verify PGP signature - `A201 2A64 02F5 51C0 FEF1  CFDD C5B3 3EC4 4CE6 8144`
+
+<hr>
