@@ -1,6 +1,6 @@
 ## Hi there 👋, I am [Alpha](https://github.com/sudoAlphaX)
 
-![SudoAlphaX GitHub User stars](https://img.shields.io/github/stars/sudoAlphaX?color=yellow&label=Stars)
+![SudoAlphaX GitHub User stars](https://img.shields.io/github/stars/sudoAlphaX?color=yellow&label=Stars&affiliations=OWNER%2CCOLLABORATOR)
 [![sudoAlphaX GitHub followers](https://img.shields.io/github/followers/sudoAlphaX?color=green&label=Followers)](https://github.com/sudoAlphaX?tab=followers)
 ![sudoAlphaX GitHub Profile Views](https://komarev.com/ghpvc/?username=your-sudoAlphaX&label=Profile+views)
 
