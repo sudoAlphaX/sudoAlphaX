@@ -33,7 +33,7 @@
 <a href=https://www.python.org><img src="https://skillicons.dev/icons?i=python" /></a>&nbsp;
 <a href=https://www.mongodb.com><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;
 <a href=https://git-scm.com><img src="https://skillicons.dev/icons?i=git" /></a>&nbsp;
-<a href=https://www.github.com/sudoalphax><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
+<a href=https://www.github.com><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
 <a href=https://www.arduino.cc><img src="https://skillicons.dev/icons?i=arduino" /></a>
 </p>
 
