@@ -72,19 +72,34 @@
 
 <hr>
 
-🔑 Import my PGP public key: `gpg --keyserver keys.openpgp.org --recv-keys A2012A6402F551C0FEF1CFDDC5B33EC44CE68144`
+🔑 Import my PGP public key: `gpg --keyserver keys.openpgp.org --recv-keys C5B33EC44CE68144`
 
 <br>
 
 <div>
   <span style="">💾 Download the key instead:</span>
-  <a href="https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/sudoAlpha.asc">
-    <img height="22" style="vertical-align:middle" alt="GNU Privacy Guard logo" src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD">
+  <a href="https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/PGP/sudoAlpha.asc">
+    <img height="22" style="vertical-align:middle" alt="GNU Privacy Guard logo" src="https://img.shields.io/badge/Alpha's_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD">
   </a>
 </div>
 
 <br>
 
 🔏 Verify PGP signature - `A201 2A64 02F5 51C0 FEF1  CFDD C5B3 3EC4 4CE6 8144`
+
+### Notice
+
+Commits till 26/11/2023 were signed using key `C5B33EC44CE68144`. Commits after the date 26/11/2023 will be signed using an exclusive signing key `FFF148AD76A4124F`.
+
+To verify commits, import the key using `gpg --keyserver keys.openpgp.org --recv-keys FFF148AD76A4124F`
+
+<div>
+  <span style="">Download the key instead:</span>
+  <a href="https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/PGP/sudoAlphaX-commit-key.asc">
+    <img height="22" style="vertical-align:middle" alt="GNU Privacy Guard logo" src="https://img.shields.io/badge/sudoalphax_Commit_Signing_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD">
+  </a>
+</div>
+
+Verify PGP signature - `E6A0 7AA6 0257 A1F1 BBFF  389F FFF1 48AD 76A4 124F`
 
 <hr>
