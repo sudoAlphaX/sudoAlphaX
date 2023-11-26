@@ -2,7 +2,7 @@
 
 ![SudoAlphaX GitHub User stars](https://img.shields.io/github/stars/sudoAlphaX?color=yellow&label=Stars&affiliations=OWNER)
 [![sudoAlphaX GitHub followers](https://img.shields.io/github/followers/sudoAlphaX?color=green&label=Followers)](https://github.com/sudoAlphaX?tab=followers)
-<!-- ![sudoAlphaX GitHub Profile Views](https://komarev.com/ghpvc/?username=your-sudoAlphaX&label=Profile+views) -->
+![sudoAlphaX GitHub Profile Views](https://komarev.com/ghpvc/?username=your-sudoAlphaX&label=Profile+views)
 
 - 💻 Coding as a hobby
 
