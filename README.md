@@ -25,6 +25,13 @@
   <img height="200" width="390" align="top" src="https://lanyard.cnrad.dev/api/705624271308849224?theme=dark&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing..." />
 </a>
 
+<a href="https://github.com/sudoAlphaX#gh-light-mode-only">
+  <img height="201" align="top" src="https://github-readme-stats.vercel.app/api?username=sudoAlphaX&show_icons=true&theme=default&bg_color=ffffff&hide_border=false&border_color=1a1c1f&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage" />
+</a>&nbsp;
+<a href= "https://discord.com/users/705624271308849224#gh-light-mode-only">
+  <img height="200" width="390" align="top" src="https://lanyard.cnrad.dev/api/705624271308849224?theme=light&bg=ffffff&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing..." />
+</a>
+
 <hr>
 
 <h1 align="left">My skills</h1>
