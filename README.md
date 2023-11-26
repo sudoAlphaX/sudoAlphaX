@@ -79,7 +79,7 @@
 <div>
   <span style="">💾 Download the key instead:</span>
   <a href="https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/sudoAlpha.asc">
-    <img height="22" align="center" style="vertical-align:middle" alt="GNU Privacy Guard logo" src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD">
+    <img height="22" style="vertical-align:middle" alt="GNU Privacy Guard logo" src="https://img.shields.io/badge/GnuPG_Public_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD">
   </a>
 </div>
 
