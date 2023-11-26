@@ -89,7 +89,7 @@
 
 ### Notice
 
-Commits till 26/11/2023 were signed using key `C5B33EC44CE68144`. Commits after the date 26/11/2023 will be signed using an exclusive signing key `FFF148AD76A4124F`.
+Commits till 26/11/2023 were signed using key `C5B33EC44CE68144`. Commits after the date 26/11/2023 will be signed using an exclusive signing key `FFF148AD76A4124F` or using GitHub's signing key `4AEE18F83AFDEB23`.
 
 To verify commits, import the key using `gpg --keyserver keys.openpgp.org --recv-keys FFF148AD76A4124F`
 
