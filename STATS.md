@@ -69,7 +69,7 @@
   <img align="top" src="https://streak-stats.demolab.com?user=sudoAlphaX&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=weekly&card_width=300"/>
 </a>
 
-## Stack Overflow stats
+## Stack Overflow Stats
 
 <a href="https://stackoverflow.com/users/13303636#gh-dark-mode-only">
   <img align="top" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13303636?theme=dark&website=true&location=true"/>
@@ -85,6 +85,6 @@
   <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-dark&area=false&radius=4.5"/>
 </a>
 
-<a href="https://github.com/sudoAlphaX#gh-light -mode-only">
+<a href="https://github.com/sudoAlphaX#gh-light-mode-only">
   <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-light&area=true&radius=4.5"/>
 </a>
