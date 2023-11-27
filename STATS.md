@@ -49,7 +49,7 @@
   <img align="top" src="https://streak-stats.demolab.com?user=sudoAlphaX&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true" />
 </a>
 
-<a href="https://github.com/sudoAlphaX#gh-dark-mode-only">
+<a href="https://github.com/sudoAlphaX#gh-light-mode-only">
   <img align="top" src="https://streak-stats.demolab.com?user=sudoAlphaX&theme=vue&date_format=j%20M%5B%20Y%5D&card_width=300&hide_current_streak=true&hide_longest_streak=true" />
 </a>
 
