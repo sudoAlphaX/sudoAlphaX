@@ -78,3 +78,13 @@
 <a href="https://stackoverflow.com/users/13303636#gh-light-mode-only">
   <img align="top" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13303636?theme=default&website=true&location=true"/>
 </a>
+
+## GitHub Contribution Graph
+
+<a href="https://github.com/sudoAlphaX#gh-dark-mode-only">
+  <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-dark&area=false&radius=4.5"/>
+</a>
+
+<a href="https://github.com/sudoAlphaX#gh-light -mode-only">
+  <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-light&area=true&radius=4.5"/>
+</a>
