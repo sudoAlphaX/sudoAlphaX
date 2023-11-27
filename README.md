@@ -64,7 +64,8 @@
 <h1 align="left">Socials</h1>
 
 <p align="left">
-  <a href = https://twitter.com/sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/twitter/twitter.svg" width=46 /></a>&nbsp;
+  <a href = https://twitter.com/sudoAlphaX#gh-dark-mode-only><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/x/x-light.svg" width=46 /></a>
+  <a href = https://twitter.com/sudoAlphaX#gh-light-mode-only><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/x/x.svg" width=46 /></a>&nbsp;
   <a href = https://www.reddit.com/r/sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/reddit/reddit.svg" width=46 /></a>&nbsp;
   <a href = https://www.instagram.com/sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/instagram/instagram.svg" width=46 /></a>&nbsp;
   <a href = https://t.me/sudoalphax><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/telegram/telegram2.svg" width=46 /></a>
