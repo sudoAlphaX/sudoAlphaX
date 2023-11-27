@@ -88,3 +88,13 @@
 <a href="https://github.com/sudoAlphaX#gh-light-mode-only">
   <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-light&area=true&radius=4.5"/>
 </a>
+
+## Discord Status
+
+<a href= "https://discord.com/users/705624271308849224#gh-dark-mode-only">
+  <img height="200" width="390" align="top" src="https://lanyard.cnrad.dev/api/705624271308849224?theme=dark&bg=0d1117&showDisplayName=true&hideBadges=false&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing..." />
+</a>
+
+<a href= "https://discord.com/users/705624271308849224#gh-light-mode-only">
+  <img height="200" width="390" align="top" src="https://lanyard.cnrad.dev/api/705624271308849224?theme=light&bg=ffffff&showDisplayName=D&hideBadges=false&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing..." />
+</a>
