@@ -41,4 +41,18 @@
 <a href="https://wakatime.com/@sudoAlphaX#gh-light-mode-only">
   <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=sudoAlphaX&theme=vue&custom_title=Alpha&apos;s%20WakaTime%20Stats&layout=compact&display_format=percent&langs_count=10" />
 </a>
+## GitHub Streak
+
+<a href="https://github.com/sudoAlphaX#gh-dark-mode-only">
+  <img align="top" src="https://streak-stats.demolab.com?user=sudoAlphaX&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=daily&card_width=300" />
+</a>
+<a href="https://github.com/sudoAlphaX#gh-dark-mode-only">
+  <img align="top" src="https://streak-stats.demolab.com?user=sudoAlphaX&theme=github-dark-blue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=weekly&card_width=300"/>
+</a>
+
+<a href="https://github.com/sudoAlphaX#gh-light-mode-only">
+  <img align="top" src="https://streak-stats.demolab.com?user=sudoAlphaX&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=daily&card_width=300" />
+</a>
+<a href="https://github.com/sudoAlphaX#gh-light-mode-only">
+  <img align="top" src="https://streak-stats.demolab.com?user=sudoAlphaX&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=weekly&card_width=300"/>
 </a>
