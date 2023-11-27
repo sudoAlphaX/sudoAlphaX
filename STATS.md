@@ -13,15 +13,18 @@
 ## Language statistics
 
 <a href="https://github.com/sudoAlphaX#gh-dark-mode-only">
-  <img height="350" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoalphax&layout=normal&langs_count=10&theme=github_dark&card_width=300" />
+  <img height="350" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoalphax&custom_title=Alpha's%20Most%20Used%20Languages&layout=normal&langs_count=10&theme=github_dark&card_width=300" />
 </a>
 <a href="https://github.com/sudoAlphaX#gh-dark-mode-only">
-  <img height="350" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoalphax&layout=donut-vertical&langs_count=10&theme=github_dark" />
+  <img height="350" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoalphax&custom_title=Alpha's%20Most%20Used%20Languages&layout=donut-vertical&langs_count=10&theme=github_dark" />
+</a>
+
+<a href="https://github.com/sudoAlphaX#gh-light-mode-only">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoalphax&custom_title=Alpha's%20Most%20Used%20Languages&layout=normal&langs_count=10&theme=buefy&card_width=300" />
 </a>
 <a href="https://github.com/sudoAlphaX#gh-light-mode-only">
-  <img height="350" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoalphax&layout=normal&langs_count=10&theme=buefy&card_width=300" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sudoalphax&custom_title=Alpha's%20Most%20Used%20Languages&layout=donut-vertical&langs_count=10&theme=buefy" />
 </a>
-<a href="https://github.com/sudoAlphaX#gh-light-mode-only">
 ## WakaTime Stats
 
 <a href="https://wakatime.com/@sudoAlphaX#gh-dark-mode-only">
