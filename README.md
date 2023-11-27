@@ -3,6 +3,7 @@
 ![SudoAlphaX GitHub User stars](https://img.shields.io/github/stars/sudoAlphaX?color=yellow&label=Stars&affiliations=OWNER)
 [![sudoAlphaX GitHub followers](https://img.shields.io/github/followers/sudoAlphaX?color=green&label=Followers)](https://github.com/sudoAlphaX?tab=followers)
 ![sudoAlphaX GitHub Profile Views](https://komarev.com/ghpvc/?username=your-sudoAlphaX&label=Profile+views)
+[![WakaTime Coding Statistics](https://wakatime.com/badge/user/128e97c5-8ad7-47e7-8404-7384f540eb62.svg)](  )
 
 - 💻 Coding as a hobby
 
