@@ -68,3 +68,13 @@
 <a href="https://github.com/sudoAlphaX#gh-light-mode-only">
   <img align="top" src="https://streak-stats.demolab.com?user=sudoAlphaX&theme=vue&date_format=j%20M%5B%20Y%5D&hide_total_contributions=true&mode=weekly&card_width=300"/>
 </a>
+
+## Stack Overflow stats
+
+<a href="https://stackoverflow.com/users/13303636#gh-dark-mode-only">
+  <img align="top" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13303636?theme=dark&website=true&location=true"/>
+</a>
+
+<a href="https://stackoverflow.com/users/13303636#gh-light-mode-only">
+  <img align="top" src="https://stackoverflow-readme-profile.johannchopin.fr/profile/13303636?theme=default&website=true&location=true"/>
+</a>
