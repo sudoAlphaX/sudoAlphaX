@@ -1,9 +1,11 @@
 ## Hi there 👋, I am [Alpha](https://github.com/sudoAlphaX)
 
+<p>
 <img src="https://img.shields.io/github/stars/sudoAlphaX?color=yellow&label=Stars&affiliations=OWNER" alt="SudoAlphaX GitHub User stars">
 <a href="https://github.com/sudoAlphaX?tab=followers"><img src="https://img.shields.io/github/followers/sudoAlphaX?color=green&label=Followers&labelColor=grey" alt="sudoAlphaX GitHub followers"></a>
 <img src="https://komarev.com/ghpvc/?username=sudoAlphaX&label=Profile+views" alt="sudoAlphaX GitHub Profile Views">
 <img src="https://wakatime.com/badge/user/128e97c5-8ad7-47e7-8404-7384f540eb62.svg" alt="WakaTime Coding Statistics">
+</p>
 
 - 💻 Coding as a hobby
 
@@ -13,18 +15,21 @@
 
 📫 Contact me:
 
+<p>
 <a href="https://discord.com/users/705624271308849224#gh-dark-mode-only"><img src="https://img.shields.io/badge/Discord-sudoalpha-5865f2?logo=discord&labelColor=grey" alt="Discord - sudoalpha"></a>
 <a href="https://t.me/su_Alpha#gh-dark-mode-only"><img src="https://img.shields.io/badge/Telegram-%40su__Alpha-24a1de?logo=telegram&labelColor=grey" alt="Telegram - @su_Alpha"></a>
 <a href="https://twitter.com/sudoAlphaX#gh-dark-mode-only"><img src="https://img.shields.io/twitter/follow/sudoalphax?label=%40sudoAlphaX" alt="X (Twitter) - @sudoAlphaX"></a>
 <a href="https://www.instagram.com/sudoalphax#gh-dark-mode-only"><img src="https://img.shields.io/badge/Instagram-%40sudoalphax-deeppink?logo=instagram&labelColor=ffffff" alt="Instagram - @sudoalphax"></a>
 <a href="https://www.reddit.com/user/sudoAlphaX#gh-dark-mode-only"><img src="https://img.shields.io/badge/Reddit-u%2FsudoAlphaX-ff4500?logo=reddit&labelColor=ffffff" alt="Reddit - u/sudoAlphaX"></a>
+</p>
 
+<p>
 <a href="https://discord.com/users/705624271308849224#gh-light-mode-only"><img src="https://img.shields.io/badge/Discord-sudoalpha-5865f2?logo=discord&labelColor=ffffff" alt="Discord - sudoalpha"></a>
 <a href="https://t.me/su_Alpha#gh-light-mode-only"><img src="https://img.shields.io/badge/Telegram-%40su__Alpha-24a1de?logo=telegram&labelColor=ffffff" alt="Telegram - @su_Alpha"></a>
 <a href="https://twitter.com/sudoAlphaX#gh-light-mode-only"><img src="https://img.shields.io/twitter/follow/sudoalphax?label=%40sudoAlphaX" alt="X (Twitter) - @sudoAlphaX"></a>
 <a href="https://www.instagram.com/sudoalphax#gh-light-mode-only"><img src="https://img.shields.io/badge/Instagram-%40sudoalphax-deeppink?logo=instagram&labelColor=ffffff" alt="Instagram - @sudoalphax"></a>
 <a href="https://www.reddit.com/user/sudoAlphaX#gh-light-mode-only"><img src="https://img.shields.io/badge/Reddit-u%2FsudoAlphaX-ff4500?logo=reddit&labelColor=ffffff" alt="Reddit - u/sudoAlphaX"></a>
-
+</p>
 
 <a href="https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#gh-dark-mode-only">
   <img height="201" align="top" src="https://github-readme-stats.vercel.app/api?username=sudoAlphaX&show_icons=true&theme=github_dark&bg_color=1a1c1f&hide_border=false&border_color=1a1c1f&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage" />
