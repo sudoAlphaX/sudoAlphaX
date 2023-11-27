@@ -16,7 +16,7 @@
 <a href="https://discord.com/users/705624271308849224#gh-dark-mode-only"><img src="https://img.shields.io/badge/Discord-sudoalpha-5865f2?logo=discord&labelColor=grey" alt="Discord - sudoalpha"></a>
 <a href="https://t.me/su_Alpha#gh-dark-mode-only"><img src="https://img.shields.io/badge/Telegram-%40su__Alpha-24a1de?logo=telegram&labelColor=grey" alt="Telegram - @su_Alpha"></a>
 <a href="https://twitter.com/sudoAlphaX#gh-dark-mode-only"><img src="https://img.shields.io/twitter/follow/sudoalphax?label=%40sudoAlphaX" alt="X (Twitter) - @sudoAlphaX"></a>
-<a href="https://www.instagram.com/sudoalphax#gh-dark-mode-only"><img src="https://img.shields.io/badge/Instagram-%40sudoalphax-deeppink?logo=instagram&labelColor=grey" alt="Instagram - @sudoalphax"></a>
+<a href="https://www.instagram.com/sudoalphax#gh-dark-mode-only"><img src="https://img.shields.io/badge/Instagram-%40sudoalphax-deeppink?logo=instagram&labelColor=ffffff" alt="Instagram - @sudoalphax"></a>
 <a href="https://www.reddit.com/user/sudoAlphaX#gh-dark-mode-only"><img src="https://img.shields.io/badge/Reddit-u%2FsudoAlphaX-ff4500?logo=reddit&labelColor=ffffff" alt="Reddit - u/sudoAlphaX"></a>
 
 <a href="https://discord.com/users/705624271308849224#gh-light-mode-only"><img src="https://img.shields.io/badge/Discord-sudoalpha-5865f2?logo=discord&labelColor=ffffff" alt="Discord - sudoalpha"></a>
