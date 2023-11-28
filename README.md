@@ -57,7 +57,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light">
-      <img src="https://skillicons.dev/icons?i=python&theme=light">
+      <img src="https://skillicons.dev/icons?i=python&theme=light" alt="Python">
     </picture>
   </a>
 
@@ -65,7 +65,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light">
-      <img src="https://skillicons.dev/icons?i=mongodb&theme=light">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=light" alt="MongoDB">
     </picture>
   </a>
 
@@ -73,7 +73,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light">
-      <img src="https://skillicons.dev/icons?i=git&theme=light">
+      <img src="https://skillicons.dev/icons?i=git&theme=light" alt="Git">
     </picture>
   </a>
 
@@ -81,7 +81,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light">
-      <img src="https://skillicons.dev/icons?i=github&theme=light">
+      <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub">
     </picture>
   </a>
 
@@ -89,7 +89,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino&theme=light">
-      <img src="https://skillicons.dev/icons?i=arduino&theme=light">
+      <img src="https://skillicons.dev/icons?i=arduino&theme=light" alt="Arduino">
     </picture>
   </a>
 </p>
@@ -102,7 +102,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&theme=light">
-      <img src="https://skillicons.dev/icons?i=linux&theme=light">
+      <img src="https://skillicons.dev/icons?i=linux&theme=light" alt="Linux">
     </picture>
   </a>
 
@@ -110,7 +110,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash&theme=light">
-      <img src="https://skillicons.dev/icons?i=bash&theme=light">
+      <img src="https://skillicons.dev/icons?i=bash&theme=light" alt="Bash">
     </picture>
   </a>
 
@@ -118,7 +118,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=powershell&theme=light">
-      <img src="https://skillicons.dev/icons?i=powershell&theme=light">
+      <img src="https://skillicons.dev/icons?i=powershell&theme=light" alt="PowerShell">
     </picture>
   </a>
 </p>
@@ -131,7 +131,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go&theme=light">
-      <img src="https://skillicons.dev/icons?i=go&theme=light">
+      <img src="https://skillicons.dev/icons?i=go&theme=light" alt="Go">
     </picture>
   </a>
 
@@ -139,7 +139,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
-      <img src="https://skillicons.dev/icons?i=ts&theme=light">
+      <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript">
     </picture>
   </a>
 
@@ -147,7 +147,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust&theme=light">
-      <img src="https://skillicons.dev/icons?i=rust&theme=light">
+      <img src="https://skillicons.dev/icons?i=rust&theme=light" alt="Rust">
     </picture>
   </a>
 
@@ -155,7 +155,7 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flask&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flask&theme=light">
-      <img src="https://skillicons.dev/icons?i=flask&theme=light">
+      <img src="https://skillicons.dev/icons?i=flask&theme=light" alt="Flask">
     </picture>
   </a>
 </p>
