@@ -57,21 +57,25 @@
   </a>
 </p>
 
-<a href="https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#gh-dark-mode-only">
-  <img height="201" align="top" src="https://github-readme-stats.vercel.app/api?username=sudoAlphaX&show_icons=true&theme=github_dark&bg_color=1a1c1f&hide_border=false&border_color=1a1c1f&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage" />
-</a>&nbsp;
-<a href= "https://discord.com/users/705624271308849224#gh-dark-mode-only">
-  <img height="200" width="390" align="top" src="https://lanyard.cnrad.dev/api/705624271308849224?theme=dark&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing..." />
-</a>
 
-<a href="https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#gh-light-mode-only">
-  <img height="201" align="top" src="https://github-readme-stats.vercel.app/api?username=sudoAlphaX&show_icons=true&theme=default&bg_color=ffffff&hide_border=false&border_color=ffffff&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage" />
-</a>&nbsp;
-<a href= "https://discord.com/users/705624271308849224#gh-light-mode-only">
-  <img height="200" width="390" align="top" src="https://lanyard.cnrad.dev/api/705624271308849224?theme=light&bg=ffffff&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing..." />
-</a>
+<p>
+  <a href = "https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=sudoAlphaX&show_icons=true&theme=github_dark&bg_color=1a1c1f&hide_border=false&border_color=1a1c1f&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=sudoAlphaX&show_icons=true&theme=default&bg_color=ffffff&hide_border=false&border_color=ffffff&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage">
+      <img height="201" align="top" src="https://github-readme-stats.vercel.app/api?username=sudoAlphaX&show_icons=true&theme=default&bg_color=ffffff&hide_border=false&border_color=ffffff&rank_icon=default&card_width=381px&show=prs_merged,prs_merged_percentage" alt="GitHub Stats">
+    </picture>
+  </a>&nbsp;
 
-<br>
+  <a href = "https://discord.com/users/705624271308849224">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/705624271308849224?theme=dark&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing...">
+      <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/705624271308849224?theme=light&bg=ffffff&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing...">
+      <img height="200" width="390" align="top" src="https://lanyard.cnrad.dev/api/705624271308849224?theme=light&bg=ffffff&showDisplayName=true&hideBadges=true&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing..." alt="Discord Rich Presence">
+    </picture>
+  </a>
+</p>
+
 View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md>STATS.md</a> file.
 <hr>
 
