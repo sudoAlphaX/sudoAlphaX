@@ -102,12 +102,26 @@
 
 ## GitHub Contribution Graph
 
+### Last 30 days
+
 <p>
   <a href = "https://github.com/sudoAlphaX">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-dark&area=false&radius=4.5">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-dark&area=true&radius=4.5">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-light&area=true&radius=4.5">
-      <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-light&area=true&radius=4.5">
+      <img align="top" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sudoAlphaX&theme=github-light&area=true&radius=4.5">
+    </picture>
+  </a>
+</p>
+
+### Last 365 days
+
+<p>
+  <a href = "https://github.com/sudoAlphaX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudoAlphaX&theme=transparent">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudoAlphaX&theme=vue">
+      <img align="top" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudoalphax&theme=vue">
     </picture>
   </a>
 </p>
