@@ -102,12 +102,26 @@
 
 ## GitHub Contribution Graph
 
+### Last 30 days
+
 <p>
   <a href = "https://github.com/sudoAlphaX">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-dark&area=false&radius=4.5">
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-dark&area=true&radius=4.5">
       <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-light&area=true&radius=4.5">
-      <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=sudoalphax&theme=github-light&area=true&radius=4.5">
+      <img align="top" width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sudoAlphaX&theme=github-light&area=true&radius=4.5">
+    </picture>
+  </a>
+</p>
+
+### Last 365 days
+
+<p>
+  <a href = "https://github.com/sudoAlphaX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudoAlphaX&theme=transparent">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudoAlphaX&theme=vue">
+      <img align="top" width="800" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sudoalphax&theme=vue">
     </picture>
   </a>
 </p>
@@ -121,6 +135,45 @@
       <source media="(prefers-color-scheme: dark)" srcset="https://lanyard.cnrad.dev/api/705624271308849224?theme=dark&bg=0d1117&showDisplayName=true&hideBadges=false&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing...">
       <source media="(prefers-color-scheme: light)" srcset="https://lanyard.cnrad.dev/api/705624271308849224?theme=light&bg=ffffff&showDisplayName=D&hideBadges=false&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing...">
       <img align="top" height="200" width="390" src="https://lanyard.cnrad.dev/api/705624271308849224?theme=light&bg=ffffff&showDisplayName=D&hideBadges=false&animated=true&borderRadius=4.5px&idleMessage=Currently%20sudoAlphing...">
+    </picture>
+  </a>
+</p>
+
+
+## Commit Distribution by Time
+
+<p>
+  <a href = "https://github.com/sudoAlphaX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=transparent&utcOffset=-5">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=vue&utcOffset=-5">
+      <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=vue&utcOffset=-5">
+    </picture>
+  </a>
+
+  <a href = "https://github.com/sudoAlphaX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=transparent&utcOffset=0">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=vue&utcOffset=0">
+      <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=vue&utcOffset=0">
+    </picture>
+  </a>
+</p>
+
+<p>
+  <a href = "https://github.com/sudoAlphaX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=transparent&utcOffset=+1">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=vue&utcOffset=+1">
+      <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=vue&utcOffset=+1">
+    </picture>
+  </a>
+
+  <a href = "https://github.com/sudoAlphaX">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=transparent&utcOffset=+5.30">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=vue&utcOffset=+5.30">
+      <img align="top" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sudoalphax&theme=vue&utcOffset=+5.30">
     </picture>
   </a>
 </p>
