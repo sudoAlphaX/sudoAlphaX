@@ -47,3 +47,47 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 ## [GnuPG Badge](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#notice)
 
 * [Shields.io](https://shields.io) - https://shields.io/badges
+
+<br>
+
+# [STATS.md](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md)
+
+## [Lifetime GitHub Stats Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#lifetime-github-stats)
+
+* [Anurag Hazra](https://github.com/anuraghazra) - https://github.com/anuraghazra/github-readme-stats
+
+## [Most Used Languages Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#most-used-languages)
+
+* [Anurag Hazra](https://github.com/anuraghazra) - https://github.com/anuraghazra/github-readme-stats
+
+## [WakaTime Stats Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#wakatime-stats)
+
+* [Anurag Hazra](https://github.com/anuraghazra) - https://github.com/anuraghazra/github-readme-stats
+
+## [Total Contributions Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#github-stats-card)
+
+* [Jonah Lawrence](https://github.com/DenverCoder1) - https://github.com/denvercoder1/github-readme-streak-stats
+
+## [GitHub Streak Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#github-streak)
+
+* [Jonah Lawrence](https://github.com/DenverCoder1) - https://github.com/denvercoder1/github-readme-streak-stats
+
+## [Stack Overflow Details Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#stack-overflow-details)
+
+* [johannchopin](https://github.com/johannchopin) - https://github.com/johannchopin/stackoverflow-readme-profile
+
+## [GitHub Contribution Graph Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#github-contribution-graph)
+
+1. [Last 30 Days Graph](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#last-30-days)<br>
+[Ashutosh Dwivedi](https://github.com/Ashutosh00710) - https://github.com/Ashutosh00710/github-readme-activity-graph
+
+2. [Last 365 Days Graph](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#last-365-days)<br>
+[Casper](https://github.com/vn7n24fzkq) - https://github.com/vn7n24fzkq/github-profile-summary-cards
+
+## [Discord Status Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#discord-status)
+
+* [Conrad Crawford](https://github.com/cnrad) - https://github.com/cnrad/lanyard-profile-readme
+
+## [Commit Distribution by Time Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#commit-distribution-by-time)
+
+* [Casper](https://github.com/vn7n24fzkq) - https://github.com/vn7n24fzkq/github-profile-summary-cardsaa
