@@ -49,34 +49,118 @@
 View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md>STATS.md</a> file.
 <hr>
 
-<h1 align="left">My skills</h1>
 
-<p align="left">
-<a href=https://www.python.org><img src="https://skillicons.dev/icons?i=python" /></a>&nbsp;
-<a href=https://www.mongodb.com><img src="https://skillicons.dev/icons?i=mongodb" /></a>&nbsp;
-<a href=https://git-scm.com><img src="https://skillicons.dev/icons?i=git" /></a>&nbsp;
-<a href=https://www.github.com><img src="https://skillicons.dev/icons?i=github" /></a>&nbsp;
-<a href=https://www.arduino.cc><img src="https://skillicons.dev/icons?i=arduino" /></a>
+<h2>My skills</h2>
+
+<p>
+  <a href = "https://www.python.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=python&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=python&theme=light">
+      <img src="https://skillicons.dev/icons?i=python&theme=light">
+    </picture>
+  </a>
+
+  <a href = "https://www.mongodb.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mongodb&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mongodb&theme=light">
+      <img src="https://skillicons.dev/icons?i=mongodb&theme=light">
+    </picture>
+  </a>
+
+  <a href = "https://git-scm.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git&theme=light">
+      <img src="https://skillicons.dev/icons?i=git&theme=light">
+    </picture>
+  </a>
+
+  <a href = "https://www.github.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light">
+      <img src="https://skillicons.dev/icons?i=github&theme=light">
+    </picture>
+  </a>
+
+  <a href = "https://www.arduino.cc">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=arduino&theme=light">
+      <img src="https://skillicons.dev/icons?i=arduino&theme=light">
+    </picture>
+  </a>
 </p>
 
-<h1 align="left">Currently learning</h1>
 
-<p align="left">
-<a href=https://www.linux.org><img src="https://skillicons.dev/icons?i=linux" /></a>&nbsp;
-<a href=https://www.gnu.org/software/bash><img src="https://skillicons.dev/icons?i=bash" /></a>&nbsp;
-<a href=https://learn.microsoft.com/en-us/powershell><img src="https://skillicons.dev/icons?i=powershell" /></a>
+<h2>Currently learning</h2>
+
+<p>
+  <a href = "https://www.linux.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux&theme=light">
+      <img src="https://skillicons.dev/icons?i=linux&theme=light">
+    </picture>
+  </a>
+
+  <a href = "https://www.gnu.org/software/bash">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=bash&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=bash&theme=light">
+      <img src="https://skillicons.dev/icons?i=bash&theme=light">
+    </picture>
+  </a>
+
+  <a href = "https://learn.microsoft.com/en-us/powershell">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=powershell&theme=light">
+      <img src="https://skillicons.dev/icons?i=powershell&theme=light">
+    </picture>
+  </a>
 </p>
 
-<h1 align="left">Bucket list</h1>
 
-<p align="left">
-<a href=https://go.dev><img src="https://skillicons.dev/icons?i=go" /></a>&nbsp;
-<a href=https://www.typescriptlang.org><img src="https://skillicons.dev/icons?i=ts" /></a>&nbsp;
-<a href=https://www.rust-lang.org><img src="https://skillicons.dev/icons?i=rust" /></a>&nbsp;
-<a href=https://flask.palletsprojects.com><img src="https://skillicons.dev/icons?i=flask" /></a>
+<h2>Bucket list</h2>
+
+<p>
+  <a href = "https://go.dev">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go&theme=light">
+      <img src="https://skillicons.dev/icons?i=go&theme=light">
+    </picture>
+  </a>
+
+  <a href = "https://www.typescriptlang.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
+      <img src="https://skillicons.dev/icons?i=ts&theme=light">
+    </picture>
+  </a>
+
+  <a href = "https://www.rust-lang.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust&theme=light">
+      <img src="https://skillicons.dev/icons?i=rust&theme=light">
+    </picture>
+  </a>
+
+  <a href = "https://flask.palletsprojects.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flask&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=flask&theme=light">
+      <img src="https://skillicons.dev/icons?i=flask&theme=light">
+    </picture>
+  </a>
 </p>
 
-<h1 align="left">Socials</h1>
+<h2>Socials</h2>
 
 <p align="left">
   <a href = https://twitter.com/sudoAlphaX#gh-dark-mode-only><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/x/x-light.svg" width=46 /></a>
