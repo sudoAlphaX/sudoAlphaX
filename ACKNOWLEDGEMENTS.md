@@ -91,3 +91,7 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 ## [Commit Distribution by Time Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#commit-distribution-by-time)
 
 * [Casper](https://github.com/vn7n24fzkq) - https://github.com/vn7n24fzkq/github-profile-summary-cardsaa
+
+## [YouTube Channel Stats Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#youtube-channel-stats)
+
+* [Dhyey Thumar](https://github.com/dhyeythumar) - https://github.com/dhyeythumar/youtube-stats-card
