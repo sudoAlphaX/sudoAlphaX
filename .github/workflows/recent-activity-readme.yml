@@ -18,5 +18,5 @@ jobs:
         with:
           GH_USERNAME: ${{ github.repository_owner }}
           COMMIT_MSG: "Update recent GitHub activity in README.md"
-          MAX_LINES: 10
+          MAX_LINES: 5
           TARGET_FILE: README.md

@@ -74,22 +74,6 @@
   </a>
 </p>
 
-<details>
-  <summary>Recent GitHub Activity</summary>
-  <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/sudoAlphaX/chat-export-stats/pull/1) in [sudoAlphaX/chat-export-stats](https://github.com/sudoAlphaX/chat-export-stats)
-2. 💪 Opened PR [#1](https://github.com/sudoAlphaX/chat-export-stats/pull/1) in [sudoAlphaX/chat-export-stats](https://github.com/sudoAlphaX/chat-export-stats)
-3. 🎉 Merged PR [#9](https://github.com/sudoAlphaX/sudoAlphaX/pull/9) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-4. 💪 Opened PR [#9](https://github.com/sudoAlphaX/sudoAlphaX/pull/9) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-5. 🎉 Merged PR [#24](https://github.com/sudoAlphaX/instagram-redact/pull/24) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-6. 💪 Opened PR [#24](https://github.com/sudoAlphaX/instagram-redact/pull/24) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-7. 🎉 Merged PR [#8](https://github.com/sudoAlphaX/sudoAlphaX/pull/8) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-8. 💪 Opened PR [#8](https://github.com/sudoAlphaX/sudoAlphaX/pull/8) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-9. ❌ Closed PR [#7](https://github.com/sudoAlphaX/sudoAlphaX/pull/7) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-10. 💪 Opened PR [#7](https://github.com/sudoAlphaX/sudoAlphaX/pull/7) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-<!--END_SECTION:activity-->
-</details>
-
 <br>
 View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md>STATS.md</a> file.
 <hr>
@@ -220,6 +204,11 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
   <a href = https://t.me/sudoalphax><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/telegram/telegram2.svg" width=46 alt="Telegram - @sudoAlphaX"/></a>&nbsp;
   <a href = https://www.youtube.com/@sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/youtube/youtube.svg" height=46 alt="Youtube - @sudoAlphaX"/></a>
 </p>
+
+<hr>
+
+## Recent GitHub Activity
+<!--START_SECTION:activity-->
 
 <hr>
 
