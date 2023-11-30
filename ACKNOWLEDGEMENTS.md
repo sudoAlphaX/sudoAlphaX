@@ -88,6 +88,9 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 2. [Last 365 Days Graph](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#last-365-days)<br>
 [Casper](https://github.com/vn7n24fzkq) - https://github.com/vn7n24fzkq/github-profile-summary-cards
 
+3. [Recent GitHub Activity](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#recent-github-activity)<br>
+[James George](https://github.com/jamesgeorge007) - https://github.com/jamesgeorge007/github-activity-readme
+
 ## [Discord Status Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#discord-status)
 
 * [Conrad Crawford](https://github.com/cnrad) - https://github.com/cnrad/lanyard-profile-readme

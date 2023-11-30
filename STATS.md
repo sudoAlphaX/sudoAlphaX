@@ -126,6 +126,13 @@
   </a>
 </p>
 
+### Recent GitHub Activity
+
+<details>
+  <summary>Click to expand</summary>
+  <!--START_SECTION:activity-->
+</details>
+
 
 ## Discord Status
 
