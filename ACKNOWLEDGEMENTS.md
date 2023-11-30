@@ -6,7 +6,7 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 
 # [README.md](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md)
 
-## [Header Buttons](https://github.com/sudoalphax/sudoalphax?tab=readme-ov-file#hi-there--i-am-alpha)
+## [Header Buttons](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#hi-there--i-am-alpha)
 
 1. Stars Badge:<br>
 [Shields.io](https://shields.io) - https://shields.io/badges/git-hub-users-stars
@@ -20,7 +20,7 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 4. WakaTime Badge:<br>
 [WakaTime](https://wakatime.com) - https://github.com/alanhamlett/alanhamlett/blob/main/README.md
 
-## [Contact me buttons](https://github.com/sudoalphax/sudoalphax?tab=readme-ov-file#hi-there--i-am-alpha)
+## [Contact me buttons](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#hi-there--i-am-alpha)
 
 1. Discord, Telegram, Instagram and Reddit Button:<br>
 [Shields.io](https://shields.io) - https://shields.io/badges
@@ -28,11 +28,11 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 2. Twitter Button:<br>
 [Shields.io](https://shields.io) - https://shields.io/badges/x-formerly-twitter-follow
 
-## [GitHub Stats Card](https://github.com/sudoalphax/sudoalphax?tab=readme-ov-file#hi-there--i-am-alpha)
+## [GitHub Stats Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#hi-there--i-am-alpha)
 
 * [Anurag Hazra](https://github.com/anuraghazra) - https://github.com/anuraghazra/github-readme-stats
 
-## [Discord Rich Presence Card](https://github.com/sudoalphax/sudoalphax?tab=readme-ov-file#hi-there--i-am-alpha)
+## [Discord Rich Presence Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#hi-there--i-am-alpha)
 
 * [Conrad Crawford](https://github.com/cnrad) - https://github.com/cnrad/lanyard-profile-readme
 
