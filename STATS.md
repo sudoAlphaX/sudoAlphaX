@@ -126,14 +126,6 @@
   </a>
 </p>
 
-### Recent GitHub Activity
-
-<details>
-  <summary>Click to expand</summary>
-  <!--START_SECTION:activity-->
-</details>
-
-
 ## Discord Status
 
 <p>
@@ -196,3 +188,7 @@
     </picture>
   </a>
 </p>
+
+## Recent GitHub Activity
+
+<!--START_SECTION:activity-->
