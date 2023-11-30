@@ -36,10 +36,6 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 
 * [Conrad Crawford](https://github.com/cnrad) - https://github.com/cnrad/lanyard-profile-readme
 
-## [Recent GitHub Activity](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#hi-there--i-am-alpha)
-
-* [James George](https://github.com/jamesgeorge007) - https://github.com/jamesgeorge007/github-activity-readme
-
 ## [My Skills, Currently Learning and Bucket List Icons](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#my-skills)
 
 * [Thijs](https://github.com/tandpfun/) - https://github.com/tandpfun/skill-icons
@@ -47,6 +43,10 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 ## [Socials Icons](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#socials)
 
 * [Dheeresh Agarwal](https://github.com/dheereshagrwal) - https://github.com/dheereshagrwal/colored-icons
+
+## [Recent GitHub Activity](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#recent-github-activity)
+
+* [James George](https://github.com/jamesgeorge007) - https://github.com/jamesgeorge007/github-activity-readme
 
 ## [GnuPG Badge](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#notice)
 
@@ -88,9 +88,6 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 2. [Last 365 Days Graph](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#last-365-days)<br>
 [Casper](https://github.com/vn7n24fzkq) - https://github.com/vn7n24fzkq/github-profile-summary-cards
 
-3. [Recent GitHub Activity](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#recent-github-activity)<br>
-[James George](https://github.com/jamesgeorge007) - https://github.com/jamesgeorge007/github-activity-readme
-
 ## [Discord Status Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#discord-status)
 
 * [Conrad Crawford](https://github.com/cnrad) - https://github.com/cnrad/lanyard-profile-readme
@@ -102,3 +99,7 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 ## [YouTube Channel Stats Card](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#youtube-channel-stats)
 
 * [Dhyey Thumar](https://github.com/dhyeythumar) - https://github.com/dhyeythumar/youtube-stats-card
+
+## [Recent GitHub Activity](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md#recent-github-activity)
+
+* [James George](https://github.com/jamesgeorge007) - https://github.com/jamesgeorge007/github-activity-readme
