@@ -204,11 +204,11 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/Zai-Kun/Zai-Kun/pull/4) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
-2. 💪 Opened PR [#3](https://github.com/Zai-Kun/Zai-Kun/pull/3) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
-3. 🎉 Merged PR [#1](https://github.com/sudoAlphaX/chat-export-stats/pull/1) in [sudoAlphaX/chat-export-stats](https://github.com/sudoAlphaX/chat-export-stats)
-4. 💪 Opened PR [#1](https://github.com/sudoAlphaX/chat-export-stats/pull/1) in [sudoAlphaX/chat-export-stats](https://github.com/sudoAlphaX/chat-export-stats)
-5. 🎉 Merged PR [#9](https://github.com/sudoAlphaX/sudoAlphaX/pull/9) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
+1. 🗣 Commented on [#609](https://github.com/dolfies/discord.py-self/issues/609#issuecomment-1834470306) in [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self)
+2. 🗣 Commented on [#6](https://github.com/Zai-Kun/py-arkose-token-generator/issues/6#issuecomment-1834441509) in [Zai-Kun/py-arkose-token-generator](https://github.com/Zai-Kun/py-arkose-token-generator)
+3. 💪 Opened PR [#4](https://github.com/Zai-Kun/Zai-Kun/pull/4) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
+4. 💪 Opened PR [#3](https://github.com/Zai-Kun/Zai-Kun/pull/3) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
+5. 🎉 Merged PR [#1](https://github.com/sudoAlphaX/chat-export-stats/pull/1) in [sudoAlphaX/chat-export-stats](https://github.com/sudoAlphaX/chat-export-stats)
 <!--END_SECTION:activity-->
 
 <hr>
