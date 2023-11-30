@@ -76,6 +76,12 @@
   </a>
 </p>
 
+<details>
+  <summary>Recent GitHub Activity</summary>
+  <!--START_SECTION:activity-->
+</details>
+
+<br>
 View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md>STATS.md</a> file.
 <hr>
 

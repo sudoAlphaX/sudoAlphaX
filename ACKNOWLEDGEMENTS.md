@@ -36,6 +36,10 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 
 * [Conrad Crawford](https://github.com/cnrad) - https://github.com/cnrad/lanyard-profile-readme
 
+## [Recent GitHub Activity](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#hi-there--i-am-alpha)
+
+* [James George](https://github.com/jamesgeorge007) - https://github.com/jamesgeorge007/github-activity-readme
+
 ## [My Skills, Currently Learning and Bucket List Icons](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#my-skills)
 
 * [Thijs](https://github.com/tandpfun/) - https://github.com/tandpfun/skill-icons
