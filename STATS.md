@@ -184,7 +184,7 @@
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://youtube-stats-card.vercel.app/api?channelid=UCix461uYyEVlqER24kMZ9ZQ&bg_color=0d1117&title_color=1f6feb&text_color=ffffff&icon_color=1f6feb">
       <source media="(prefers-color-scheme: light)" srcset="https://youtube-stats-card.vercel.app/api?channelid=UCix461uYyEVlqER24kMZ9ZQ&theme=vue">
-      <img align="top" src="https://youtube-stats-card.vercel.app/api?channelid=UCix461uYyEVlqER24kMZ9ZQ&theme=vue">
+      <img align="top" src="https://youtube-stats-card.vercel.app/api?channelid=UCix461uYyEVlqER24kMZ9ZQ&theme=vue", alt="YouTube Channel - @sudoAlphaX">
     </picture>
   </a>
 </p>
