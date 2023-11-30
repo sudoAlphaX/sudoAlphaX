@@ -11,8 +11,6 @@
 
 - 🔭 Currently working on [instagram-redact](https://github.com/sudoAlphaX/instagram-redact) and [git-mass-scripts](https://github.com/sudoAlphaX/git-mass-scripts)
 
-<br>
-
 ### 📫 Contact me:
 
 <p>
