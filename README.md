@@ -74,10 +74,7 @@
   </a>
 </p>
 
-<br>
 View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md>STATS.md</a> file.
-<hr>
-
 
 <h2>My skills</h2>
 
@@ -204,8 +201,6 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
   <a href = https://t.me/sudoalphax><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/telegram/telegram2.svg" width=46 alt="Telegram - @sudoAlphaX"/></a>&nbsp;
   <a href = https://www.youtube.com/@sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/youtube/youtube.svg" height=46 alt="Youtube - @sudoAlphaX"/></a>
 </p>
-
-<hr>
 
 ## Recent GitHub Activity
 <!--START_SECTION:activity-->
