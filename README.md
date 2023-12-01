@@ -74,6 +74,22 @@
   </a>
 </p>
 
+<details>
+
+  <summary>Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+1. 🗣 Commented on [#609](https://github.com/dolfies/discord.py-self/issues/609#issuecomment-1834470306) in [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self)
+2. 🗣 Commented on [#6](https://github.com/Zai-Kun/py-arkose-token-generator/issues/6#issuecomment-1834441509) in [Zai-Kun/py-arkose-token-generator](https://github.com/Zai-Kun/py-arkose-token-generator)
+3. 💪 Opened PR [#4](https://github.com/Zai-Kun/Zai-Kun/pull/4) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
+4. 💪 Opened PR [#3](https://github.com/Zai-Kun/Zai-Kun/pull/3) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
+5. 🎉 Merged PR [#1](https://github.com/sudoAlphaX/chat-export-stats/pull/1) in [sudoAlphaX/chat-export-stats](https://github.com/sudoAlphaX/chat-export-stats)
+<!--END_SECTION:activity-->
+
+</details>
+
+<br>
+
 View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md>STATS.md</a> file.
 
 <h2>My skills</h2>
@@ -201,15 +217,6 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
   <a href = https://t.me/sudoalphax><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/telegram/telegram2.svg" width=46 alt="Telegram - @sudoAlphaX"/></a>&nbsp;
   <a href = https://www.youtube.com/@sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/youtube/youtube.svg" height=46 alt="Youtube - @sudoAlphaX"/></a>
 </p>
-
-## Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#609](https://github.com/dolfies/discord.py-self/issues/609#issuecomment-1834470306) in [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self)
-2. 🗣 Commented on [#6](https://github.com/Zai-Kun/py-arkose-token-generator/issues/6#issuecomment-1834441509) in [Zai-Kun/py-arkose-token-generator](https://github.com/Zai-Kun/py-arkose-token-generator)
-3. 💪 Opened PR [#4](https://github.com/Zai-Kun/Zai-Kun/pull/4) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
-4. 💪 Opened PR [#3](https://github.com/Zai-Kun/Zai-Kun/pull/3) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
-5. 🎉 Merged PR [#1](https://github.com/sudoAlphaX/chat-export-stats/pull/1) in [sudoAlphaX/chat-export-stats](https://github.com/sudoAlphaX/chat-export-stats)
-<!--END_SECTION:activity-->
 
 <hr>
 

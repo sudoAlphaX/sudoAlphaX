@@ -66,6 +66,16 @@
   </a>
 </p>
 
+<details>
+
+  <summary>View Recent GitHub Activity</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+</details>
+
+
 ## GitHub Streak
 
 <p>
@@ -188,26 +198,3 @@
     </picture>
   </a>
 </p>
-
-## Recent GitHub Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#609](https://github.com/dolfies/discord.py-self/issues/609#issuecomment-1834470306) in [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self)
-2. 🗣 Commented on [#6](https://github.com/Zai-Kun/py-arkose-token-generator/issues/6#issuecomment-1834441509) in [Zai-Kun/py-arkose-token-generator](https://github.com/Zai-Kun/py-arkose-token-generator)
-3. 💪 Opened PR [#4](https://github.com/Zai-Kun/Zai-Kun/pull/4) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
-4. 💪 Opened PR [#3](https://github.com/Zai-Kun/Zai-Kun/pull/3) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
-5. 🎉 Merged PR [#1](https://github.com/sudoAlphaX/chat-export-stats/pull/1) in [sudoAlphaX/chat-export-stats](https://github.com/sudoAlphaX/chat-export-stats)
-6. 💪 Opened PR [#1](https://github.com/sudoAlphaX/chat-export-stats/pull/1) in [sudoAlphaX/chat-export-stats](https://github.com/sudoAlphaX/chat-export-stats)
-7. 🎉 Merged PR [#9](https://github.com/sudoAlphaX/sudoAlphaX/pull/9) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-8. 💪 Opened PR [#9](https://github.com/sudoAlphaX/sudoAlphaX/pull/9) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-9. 🎉 Merged PR [#24](https://github.com/sudoAlphaX/instagram-redact/pull/24) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-10. 💪 Opened PR [#24](https://github.com/sudoAlphaX/instagram-redact/pull/24) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-11. 🎉 Merged PR [#8](https://github.com/sudoAlphaX/sudoAlphaX/pull/8) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-12. 💪 Opened PR [#8](https://github.com/sudoAlphaX/sudoAlphaX/pull/8) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-13. ❌ Closed PR [#7](https://github.com/sudoAlphaX/sudoAlphaX/pull/7) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-14. 💪 Opened PR [#7](https://github.com/sudoAlphaX/sudoAlphaX/pull/7) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-15. 🎉 Merged PR [#6](https://github.com/sudoAlphaX/sudoAlphaX/pull/6) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-16. 💪 Opened PR [#6](https://github.com/sudoAlphaX/sudoAlphaX/pull/6) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-17. 🎉 Merged PR [#5](https://github.com/sudoAlphaX/sudoAlphaX/pull/5) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-18. 💪 Opened PR [#5](https://github.com/sudoAlphaX/sudoAlphaX/pull/5) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-<!--END_SECTION:activity-->

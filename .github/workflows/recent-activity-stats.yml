@@ -18,5 +18,5 @@ jobs:
         with:
           GH_USERNAME: ${{ github.repository_owner }}
           COMMIT_MSG: "Update recent GitHub activity in STATS.md"
-          MAX_LINES: 20
+          MAX_LINES: 100
           TARGET_FILE: STATS.md
