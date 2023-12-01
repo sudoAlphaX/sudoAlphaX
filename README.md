@@ -79,12 +79,7 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#25](https://github.com/sudoAlphaX/instagram-redact/pull/25) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-2. 💪 Opened PR [#25](https://github.com/sudoAlphaX/instagram-redact/pull/25) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-3. 🗣 Commented on [#609](https://github.com/dolfies/discord.py-self/issues/609#issuecomment-1834470306) in [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self)
-4. 🗣 Commented on [#6](https://github.com/Zai-Kun/py-arkose-token-generator/issues/6#issuecomment-1834441509) in [Zai-Kun/py-arkose-token-generator](https://github.com/Zai-Kun/py-arkose-token-generator)
-5. 💪 Opened PR [#4](https://github.com/Zai-Kun/Zai-Kun/pull/4) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
-<!--END_SECTION:activity-->
+
 
 </details>
 
