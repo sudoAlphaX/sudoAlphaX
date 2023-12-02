@@ -99,8 +99,6 @@
 
 </details>
 
-<br>
-
 View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md>STATS.md</a> file.
 
 <h2>My skills</h2>
