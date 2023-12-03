@@ -38,6 +38,10 @@ The cool charts and badges in [README.md](https://github.com/sudoAlphaX/sudoAlph
 
 * [James George](https://github.com/jamesgeorge007) - https://github.com/jamesgeorge007/github-activity-readme
 
+## GitHub Wrapped Image
+
+* [Abhijit Gupta](https://github.com/avgupta456) - https://www.githubwrapped.io/
+
 ## [My Skills, Currently Learning and Bucket List Icons](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/README.md#my-skills)
 
 * [Thijs](https://github.com/tandpfun/) - https://github.com/tandpfun/skill-icons
