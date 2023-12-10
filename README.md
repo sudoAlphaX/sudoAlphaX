@@ -4,7 +4,7 @@
 <img src="https://img.shields.io/github/stars/sudoAlphaX?color=yellow&label=Stars&affiliations=OWNER" alt="SudoAlphaX GitHub User stars">
 <a href="https://github.com/sudoAlphaX?tab=followers"><img src="https://img.shields.io/github/followers/sudoAlphaX?color=green&label=Followers&labelColor=grey" alt="sudoAlphaX GitHub followers"></a>
 <img src="https://komarev.com/ghpvc/?username=sudoAlphaX&label=Profile+views" alt="sudoAlphaX GitHub Profile Views">
-<img src="https://wakatime.com/badge/user/128e97c5-8ad7-47e7-8404-7384f540eb62.svg" alt="WakaTime Coding Statistics">
+<a href="https://wakatime.com/@sudoAlphaX"><img src="https://wakatime.com/badge/user/128e97c5-8ad7-47e7-8404-7384f540eb62.svg" alt="WakaTime Coding Statistics"></a>
 </p>
 
 - 💻 Coding as a hobby
