@@ -250,12 +250,10 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
 
 <hr>
 
-🔑 To verify commits, import the commit signing key using `gpg --keyserver keys.openpgp.org --recv-keys FFF148AD76A4124F`
-
 Read [NOTICE.md](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/PGP/NOTICE.md)
 
 <div>
-  <span style="">💾 Download the key instead:</span>
+  <span style="">💾 Download the key:</span>
   <a href="https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/PGP/sudoAlphaX-commit-key.asc">
     <img height="22" style="vertical-align:middle" alt="GNU Privacy Guard logo" src="https://img.shields.io/badge/sudoalphax_Commit_Signing_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD">
   </a>
