@@ -2,10 +2,8 @@
 
 Commits till 26/11/2023 were signed using key `C5B33EC44CE68144`. Commits after the date 26/11/2023 will be signed using an exclusive signing key `FFF148AD76A4124F` or using GitHub's signing key `4AEE18F83AFDEB23`.
 
-To verify commits, import the key using `gpg --keyserver keys.openpgp.org --recv-keys FFF148AD76A4124F`
-
 <div>
-  <span style="">Download the key instead:</span>
+  <span style="">Download the key:</span>
   <a href="https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/PGP/sudoAlphaX-commit-key.asc">
     <img height="22" style="vertical-align:middle" alt="GNU Privacy Guard logo" src="https://img.shields.io/badge/sudoalphax_Commit_Signing_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD">
   </a>
