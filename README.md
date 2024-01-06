@@ -250,6 +250,8 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
 
 <hr>
 
+### Git commit signing key
+
 Read [NOTICE.md](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/PGP/NOTICE.md)
 
 <div>
