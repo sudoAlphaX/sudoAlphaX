@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/sudoAlphaX/instagram-redact/pull/26) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-2. 💪 Opened PR [#26](https://github.com/sudoAlphaX/instagram-redact/pull/26) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-3. ❗ Opened issue [#2](https://github.com/meanii/youtube-disable-shorts/issues/2) in [meanii/youtube-disable-shorts](https://github.com/meanii/youtube-disable-shorts)
-4. 🗣 Commented on [#7](https://github.com/Zai-Kun/reverse-engineered-chatgpt/issues/7#issuecomment-1859148229) in [Zai-Kun/reverse-engineered-chatgpt](https://github.com/Zai-Kun/reverse-engineered-chatgpt)
-5. 💪 Opened PR [#667](https://github.com/DarkFlippers/unleashed-firmware/pull/667) in [DarkFlippers/unleashed-firmware](https://github.com/DarkFlippers/unleashed-firmware)
+1. 🎉 Merged PR [#3](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper/pull/3) in [sudoAlphaX/noise-play-camera-api-wrapper](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper)
+2. 💪 Opened PR [#3](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper/pull/3) in [sudoAlphaX/noise-play-camera-api-wrapper](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper)
+3. 🎉 Merged PR [#2](https://github.com/sudoAlphaX/noise-play-camera-access/pull/2) in [sudoAlphaX/noise-play-camera-access](https://github.com/sudoAlphaX/noise-play-camera-access)
+4. 💪 Opened PR [#2](https://github.com/sudoAlphaX/noise-play-camera-access/pull/2) in [sudoAlphaX/noise-play-camera-access](https://github.com/sudoAlphaX/noise-play-camera-access)
+5. 🗣 Commented on [#1](https://github.com/sudoAlphaX/noise-play-camera-access/issues/1#issuecomment-1923539526) in [sudoAlphaX/noise-play-camera-access](https://github.com/sudoAlphaX/noise-play-camera-access)
 6. 🎉 Merged PR [#25](https://github.com/sudoAlphaX/instagram-redact/pull/25) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
 7. 💪 Opened PR [#25](https://github.com/sudoAlphaX/instagram-redact/pull/25) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
 8. 🗣 Commented on [#609](https://github.com/dolfies/discord.py-self/issues/609#issuecomment-1834470306) in [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self)
