@@ -81,21 +81,6 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper/pull/3) in [sudoAlphaX/noise-play-camera-api-wrapper](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper)
-2. 💪 Opened PR [#3](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper/pull/3) in [sudoAlphaX/noise-play-camera-api-wrapper](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper)
-3. 🎉 Merged PR [#2](https://github.com/sudoAlphaX/noise-play-camera-access/pull/2) in [sudoAlphaX/noise-play-camera-access](https://github.com/sudoAlphaX/noise-play-camera-access)
-4. 💪 Opened PR [#2](https://github.com/sudoAlphaX/noise-play-camera-access/pull/2) in [sudoAlphaX/noise-play-camera-access](https://github.com/sudoAlphaX/noise-play-camera-access)
-5. 🗣 Commented on [#1](https://github.com/sudoAlphaX/noise-play-camera-access/issues/1#issuecomment-1923539526) in [sudoAlphaX/noise-play-camera-access](https://github.com/sudoAlphaX/noise-play-camera-access)
-6. 🎉 Merged PR [#25](https://github.com/sudoAlphaX/instagram-redact/pull/25) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-7. 💪 Opened PR [#25](https://github.com/sudoAlphaX/instagram-redact/pull/25) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-8. 🗣 Commented on [#609](https://github.com/dolfies/discord.py-self/issues/609#issuecomment-1834470306) in [dolfies/discord.py-self](https://github.com/dolfies/discord.py-self)
-9. 🗣 Commented on [#6](https://github.com/Zai-Kun/py-arkose-token-generator/issues/6#issuecomment-1834441509) in [Zai-Kun/py-arkose-token-generator](https://github.com/Zai-Kun/py-arkose-token-generator)
-10. 💪 Opened PR [#4](https://github.com/Zai-Kun/Zai-Kun/pull/4) in [Zai-Kun/Zai-Kun](https://github.com/Zai-Kun/Zai-Kun)
-11. 💪 Opened PR [#1](https://github.com/sudoAlphaX/chat-export-stats/pull/1) in [sudoAlphaX/chat-export-stats](https://github.com/sudoAlphaX/chat-export-stats)
-12. 💪 Opened PR [#9](https://github.com/sudoAlphaX/sudoAlphaX/pull/9) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
-13. 🎉 Merged PR [#24](https://github.com/sudoAlphaX/instagram-redact/pull/24) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-14. 💪 Opened PR [#24](https://github.com/sudoAlphaX/instagram-redact/pull/24) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-15. ❌ Closed PR [#7](https://github.com/sudoAlphaX/sudoAlphaX/pull/7) in [sudoAlphaX/sudoAlphaX](https://github.com/sudoAlphaX/sudoAlphaX)
 <!--END_SECTION:activity-->
 
 
