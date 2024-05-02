@@ -81,9 +81,9 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/sudoAlphaX/instagram-redact/pull/27) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-2. 💪 Opened PR [#27](https://github.com/sudoAlphaX/instagram-redact/pull/27) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
-3. 🎉 Merged PR [#3](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper/pull/3) in [sudoAlphaX/noise-play-camera-api-wrapper](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper)
+1. 💪 Opened PR [#168](https://github.com/adi1090x/rofi/pull/168) in [adi1090x/rofi](https://github.com/adi1090x/rofi)
+2. 🎉 Merged PR [#27](https://github.com/sudoAlphaX/instagram-redact/pull/27) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
+3. 💪 Opened PR [#27](https://github.com/sudoAlphaX/instagram-redact/pull/27) in [sudoAlphaX/instagram-redact](https://github.com/sudoAlphaX/instagram-redact)
 4. 💪 Opened PR [#3](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper/pull/3) in [sudoAlphaX/noise-play-camera-api-wrapper](https://github.com/sudoAlphaX/noise-play-camera-api-wrapper)
 5. 🎉 Merged PR [#2](https://github.com/sudoAlphaX/noise-play-camera-access/pull/2) in [sudoAlphaX/noise-play-camera-access](https://github.com/sudoAlphaX/noise-play-camera-access)
 <!--END_SECTION:activity-->
