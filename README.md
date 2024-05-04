@@ -239,20 +239,3 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
 🔏 Verify PGP signature - `A201 2A64 02F5 51C0 FEF1  CFDD C5B3 3EC4 4CE6 8144`
 
 <hr>
-
-#### Git commit signing key
-
-Read [NOTICE.md](https://github.com/sudoAlphaX/sudoAlphaX/blob/main/PGP/NOTICE.md)
-
-<div>
-  <span style="">💾 Download the key:</span>
-  <a href="https://raw.githubusercontent.com/sudoAlphaX/sudoAlphaX/main/PGP/sudoAlphaX-commit-key.asc">
-    <img height="22" style="vertical-align:middle" alt="GNU Privacy Guard logo" src="https://img.shields.io/badge/sudoalphax_Commit_Signing_Key-333?style=for-the-badge&logo=GNU%20Privacy%20Guard&logoColor=0093DD">
-  </a>
-</div>
-
-<br>
-
-🔏 Verify PGP signature - `E6A0 7AA6 0257 A1F1 BBFF  389F FFF1 48AD 76A4 124F`
-
-<hr>
