@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2113187026) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-2. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2113178422) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-3. ❗ Opened issue [#1507](https://github.com/KRTirtho/spotube/issues/1507) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-4. 💪 Opened PR [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
-5. ❗ Opened issue [#3235](https://github.com/Alexays/Waybar/issues/3235) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+1. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2113203544) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+2. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2113187026) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+3. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2113178422) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+4. ❗ Opened issue [#1507](https://github.com/KRTirtho/spotube/issues/1507) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+5. 💪 Opened PR [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
 <!--END_SECTION:activity-->
 
 
