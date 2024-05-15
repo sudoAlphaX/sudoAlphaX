@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1507](https://github.com/KRTirtho/spotube/issues/1507) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-2. 💪 Opened PR [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
-3. ❗ Opened issue [#3235](https://github.com/Alexays/Waybar/issues/3235) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
-4. 💪 Opened PR [#1](https://github.com/BoopyTheFox/hyprpaper-gen/pull/1) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
-5. 💪 Opened PR [#168](https://github.com/adi1090x/rofi/pull/168) in [adi1090x/rofi](https://github.com/adi1090x/rofi)
+1. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2113187026) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+2. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2113178422) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+3. ❗ Opened issue [#1507](https://github.com/KRTirtho/spotube/issues/1507) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+4. 💪 Opened PR [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
+5. ❗ Opened issue [#3235](https://github.com/Alexays/Waybar/issues/3235) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
 <!--END_SECTION:activity-->
 
 
