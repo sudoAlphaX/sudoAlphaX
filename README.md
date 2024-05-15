@@ -81,10 +81,10 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
-2. ❗ Opened issue [#3235](https://github.com/Alexays/Waybar/issues/3235) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
-3. 💪 Opened PR [#1](https://github.com/BoopyTheFox/hyprpaper-gen/pull/1) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
-4. 💪 Opened PR [#169](https://github.com/adi1090x/rofi/pull/169) in [adi1090x/rofi](https://github.com/adi1090x/rofi)
+1. ❗ Opened issue [#1507](https://github.com/KRTirtho/spotube/issues/1507) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+2. 💪 Opened PR [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
+3. ❗ Opened issue [#3235](https://github.com/Alexays/Waybar/issues/3235) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+4. 💪 Opened PR [#1](https://github.com/BoopyTheFox/hyprpaper-gen/pull/1) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
 5. 💪 Opened PR [#168](https://github.com/adi1090x/rofi/pull/168) in [adi1090x/rofi](https://github.com/adi1090x/rofi)
 <!--END_SECTION:activity-->
 
