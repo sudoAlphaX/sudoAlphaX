@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3295](https://github.com/Alexays/Waybar/issues/3295) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
-2. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2121011066) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-3. 🔒 Closed issue [#1507](https://github.com/KRTirtho/spotube/issues/1507) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-4. ❌ Closed PR [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
-5. ❌ Reopened PR [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
+1. 💪 Opened PR [#1](https://github.com/Zai-Kun/instructions/pull/1) in [Zai-Kun/instructions](https://github.com/Zai-Kun/instructions)
+2. ❗ Opened issue [#3295](https://github.com/Alexays/Waybar/issues/3295) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+3. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2121011066) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+4. 🔒 Closed issue [#1507](https://github.com/KRTirtho/spotube/issues/1507) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+5. ❌ Closed PR [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
 <!--END_SECTION:activity-->
 
 
