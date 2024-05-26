@@ -122,14 +122,6 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     </picture>
   </a>
 
-  <a href = "https://www.github.com">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=github&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=github&theme=light">
-      <img src="https://skillicons.dev/icons?i=github&theme=light" alt="GitHub">
-    </picture>
-  </a>
-
   <a href = "https://www.arduino.cc">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=arduino&theme=dark">
@@ -159,15 +151,14 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     </picture>
   </a>
 
-  <a href = "https://learn.microsoft.com/en-us/powershell">
+  <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=powershell&theme=light">
-      <img src="https://skillicons.dev/icons?i=powershell&theme=light" alt="PowerShell">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light">
+      <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript">
     </picture>
   </a>
 </p>
-
 
 <h2>Bucket list</h2>
 
@@ -193,6 +184,14 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust&theme=light">
       <img src="https://skillicons.dev/icons?i=rust&theme=light" alt="Rust">
+    </picture>
+  </a>
+  
+  <a href = "https://learn.microsoft.com/en-us/powershell">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=powershell&theme=light">
+      <img src="https://skillicons.dev/icons?i=powershell&theme=light" alt="PowerShell">
     </picture>
   </a>
 
