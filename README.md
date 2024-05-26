@@ -151,11 +151,11 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     </picture>
   </a>
 
-  <a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+  <a href = "https://www.typescriptlang.org">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=js&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=js&theme=light">
-      <img src="https://skillicons.dev/icons?i=js&theme=light" alt="JavaScript">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
+      <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript">
     </picture>
   </a>
 </p>
@@ -168,14 +168,6 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=go&theme=light">
       <img src="https://skillicons.dev/icons?i=go&theme=light" alt="Go">
-    </picture>
-  </a>
-
-  <a href = "https://www.typescriptlang.org">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
-      <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript">
     </picture>
   </a>
 
