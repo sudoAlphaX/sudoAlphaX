@@ -151,11 +151,11 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
     </picture>
   </a>
 
-  <a href = "https://www.typescriptlang.org">
+  <a href = "https://kotlinlang.org/">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
-      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
-      <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript">
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=kotlin&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=kotlin&theme=light">
+      <img src="https://skillicons.dev/icons?i=kotlin&theme=light" alt="Kotlin">
     </picture>
   </a>
 </p>
@@ -184,6 +184,14 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
       <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=powershell&theme=dark">
       <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=powershell&theme=light">
       <img src="https://skillicons.dev/icons?i=powershell&theme=light" alt="PowerShell">
+    </picture>
+  </a>
+
+  <a href = "https://www.typescriptlang.org">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts&theme=dark">
+      <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts&theme=light">
+      <img src="https://skillicons.dev/icons?i=ts&theme=light" alt="TypeScript">
     </picture>
   </a>
 
