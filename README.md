@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122#issuecomment-2138161452) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
-2. 💪 Opened PR [#1](https://github.com/Zai-Kun/instructions/pull/1) in [Zai-Kun/instructions](https://github.com/Zai-Kun/instructions)
-3. ❗ Opened issue [#3295](https://github.com/Alexays/Waybar/issues/3295) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
-4. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2121011066) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-5. 🔒 Closed issue [#1507](https://github.com/KRTirtho/spotube/issues/1507) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+1. 🗣 Commented on [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122#issuecomment-2138241269) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
+2. 🗣 Commented on [#122](https://github.com/AckslD/nvim-neoclip.lua/pull/122#issuecomment-2138161452) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
+3. 💪 Opened PR [#1](https://github.com/Zai-Kun/instructions/pull/1) in [Zai-Kun/instructions](https://github.com/Zai-Kun/instructions)
+4. ❗ Opened issue [#3295](https://github.com/Alexays/Waybar/issues/3295) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+5. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2121011066) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 <!--END_SECTION:activity-->
 
 
