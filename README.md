@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/SenZmaKi/NyakaMwizi/issues/1) in [SenZmaKi/NyakaMwizi](https://github.com/SenZmaKi/NyakaMwizi)
-2. ❗ Opened issue [#1](https://github.com/rithvikha24/websiteprof/issues/1) in [rithvikha24/websiteprof](https://github.com/rithvikha24/websiteprof)
-3. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2153450457) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-4. 💪 Opened PR [#127](https://github.com/AckslD/nvim-neoclip.lua/pull/127) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
-5. 💪 Opened PR [#126](https://github.com/AckslD/nvim-neoclip.lua/pull/126) in [AckslD/nvim-neoclip.lua](https://github.com/AckslD/nvim-neoclip.lua)
+1. 🗣 Commented on [#1](https://github.com/SenZmaKi/NyakaMwizi/issues/1#issuecomment-2159621246) in [SenZmaKi/NyakaMwizi](https://github.com/SenZmaKi/NyakaMwizi)
+2. 🔒 Closed issue [#1](https://github.com/SenZmaKi/NyakaMwizi/issues/1) in [SenZmaKi/NyakaMwizi](https://github.com/SenZmaKi/NyakaMwizi)
+3. ❗ Opened issue [#1](https://github.com/SenZmaKi/NyakaMwizi/issues/1) in [SenZmaKi/NyakaMwizi](https://github.com/SenZmaKi/NyakaMwizi)
+4. ❗ Opened issue [#1](https://github.com/rithvikha24/websiteprof/issues/1) in [rithvikha24/websiteprof](https://github.com/rithvikha24/websiteprof)
+5. 🗣 Commented on [#1507](https://github.com/KRTirtho/spotube/issues/1507#issuecomment-2153450457) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
 <!--END_SECTION:activity-->
 
 
