@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#14](https://github.com/catppuccin/papirus-folders/issues/14) in [catppuccin/papirus-folders](https://github.com/catppuccin/papirus-folders)
-2. 🗣 Commented on [#1](https://github.com/SenZmaKi/NyakaMwizi/issues/1#issuecomment-2159621246) in [SenZmaKi/NyakaMwizi](https://github.com/SenZmaKi/NyakaMwizi)
-3. 🔒 Closed issue [#1](https://github.com/SenZmaKi/NyakaMwizi/issues/1) in [SenZmaKi/NyakaMwizi](https://github.com/SenZmaKi/NyakaMwizi)
-4. ❗ Opened issue [#1](https://github.com/SenZmaKi/NyakaMwizi/issues/1) in [SenZmaKi/NyakaMwizi](https://github.com/SenZmaKi/NyakaMwizi)
-5. ❗ Opened issue [#1](https://github.com/rithvikha24/websiteprof/issues/1) in [rithvikha24/websiteprof](https://github.com/rithvikha24/websiteprof)
+1. ❗ Opened issue [#35](https://github.com/catppuccin/aur-packages/issues/35) in [catppuccin/aur-packages](https://github.com/catppuccin/aur-packages)
+2. 🗣 Commented on [#14](https://github.com/catppuccin/papirus-folders/issues/14#issuecomment-2166409030) in [catppuccin/papirus-folders](https://github.com/catppuccin/papirus-folders)
+3. ❗ Opened issue [#14](https://github.com/catppuccin/papirus-folders/issues/14) in [catppuccin/papirus-folders](https://github.com/catppuccin/papirus-folders)
+4. 🗣 Commented on [#1](https://github.com/SenZmaKi/NyakaMwizi/issues/1#issuecomment-2159621246) in [SenZmaKi/NyakaMwizi](https://github.com/SenZmaKi/NyakaMwizi)
+5. 🔒 Closed issue [#1](https://github.com/SenZmaKi/NyakaMwizi/issues/1) in [SenZmaKi/NyakaMwizi](https://github.com/SenZmaKi/NyakaMwizi)
 <!--END_SECTION:activity-->
 
 
