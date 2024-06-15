@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/catppuccin/aur-packages/pull/34#issuecomment-2168155270) in [catppuccin/aur-packages](https://github.com/catppuccin/aur-packages)
-2. 🗣 Commented on [#34](https://github.com/catppuccin/aur-packages/pull/34#issuecomment-2167268322) in [catppuccin/aur-packages](https://github.com/catppuccin/aur-packages)
-3. ❗ Opened issue [#35](https://github.com/catppuccin/aur-packages/issues/35) in [catppuccin/aur-packages](https://github.com/catppuccin/aur-packages)
-4. 🗣 Commented on [#14](https://github.com/catppuccin/papirus-folders/issues/14#issuecomment-2166409030) in [catppuccin/papirus-folders](https://github.com/catppuccin/papirus-folders)
-5. ❗ Opened issue [#14](https://github.com/catppuccin/papirus-folders/issues/14) in [catppuccin/papirus-folders](https://github.com/catppuccin/papirus-folders)
+1. 🗣 Commented on [#37](https://github.com/catppuccin/aur-packages/issues/37#issuecomment-2169031033) in [catppuccin/aur-packages](https://github.com/catppuccin/aur-packages)
+2. 🗣 Commented on [#34](https://github.com/catppuccin/aur-packages/pull/34#issuecomment-2168155270) in [catppuccin/aur-packages](https://github.com/catppuccin/aur-packages)
+3. 🗣 Commented on [#34](https://github.com/catppuccin/aur-packages/pull/34#issuecomment-2167268322) in [catppuccin/aur-packages](https://github.com/catppuccin/aur-packages)
+4. ❗ Opened issue [#35](https://github.com/catppuccin/aur-packages/issues/35) in [catppuccin/aur-packages](https://github.com/catppuccin/aur-packages)
+5. 🗣 Commented on [#14](https://github.com/catppuccin/papirus-folders/issues/14#issuecomment-2166409030) in [catppuccin/papirus-folders](https://github.com/catppuccin/papirus-folders)
 <!--END_SECTION:activity-->
 
 
