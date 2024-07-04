@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1686](https://github.com/KRTirtho/spotube/issues/1686) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-2. 🗣 Commented on [#685](https://github.com/clangen/musikcube/issues/685#issuecomment-2187483149) in [clangen/musikcube](https://github.com/clangen/musikcube)
-3. 🗣 Commented on [#640](https://github.com/victornpb/undiscord/issues/640#issuecomment-2186701986) in [victornpb/undiscord](https://github.com/victornpb/undiscord)
-4. ❗ Opened issue [#640](https://github.com/victornpb/undiscord/issues/640) in [victornpb/undiscord](https://github.com/victornpb/undiscord)
-5. 🗣 Commented on [#37](https://github.com/catppuccin/aur-packages/issues/37#issuecomment-2169704781) in [catppuccin/aur-packages](https://github.com/catppuccin/aur-packages)
+1. 🗣 Commented on [#685](https://github.com/clangen/musikcube/issues/685#issuecomment-2209187302) in [clangen/musikcube](https://github.com/clangen/musikcube)
+2. ❗ Opened issue [#1686](https://github.com/KRTirtho/spotube/issues/1686) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+3. 🗣 Commented on [#685](https://github.com/clangen/musikcube/issues/685#issuecomment-2187483149) in [clangen/musikcube](https://github.com/clangen/musikcube)
+4. 🗣 Commented on [#640](https://github.com/victornpb/undiscord/issues/640#issuecomment-2186701986) in [victornpb/undiscord](https://github.com/victornpb/undiscord)
+5. ❗ Opened issue [#640](https://github.com/victornpb/undiscord/issues/640) in [victornpb/undiscord](https://github.com/victornpb/undiscord)
 <!--END_SECTION:activity-->
 
 
