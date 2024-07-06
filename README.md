@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#685](https://github.com/clangen/musikcube/issues/685#issuecomment-2210277761) in [clangen/musikcube](https://github.com/clangen/musikcube)
-2. 🗣 Commented on [#685](https://github.com/clangen/musikcube/issues/685#issuecomment-2210274083) in [clangen/musikcube](https://github.com/clangen/musikcube)
-3. 🗣 Commented on [#685](https://github.com/clangen/musikcube/issues/685#issuecomment-2210245189) in [clangen/musikcube](https://github.com/clangen/musikcube)
-4. 🗣 Commented on [#685](https://github.com/clangen/musikcube/issues/685#issuecomment-2209187302) in [clangen/musikcube](https://github.com/clangen/musikcube)
-5. ❗ Opened issue [#1686](https://github.com/KRTirtho/spotube/issues/1686) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+1. 🗣 Commented on [#45](https://github.com/SenZmaKi/Senpwai/issues/45#issuecomment-2211697374) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
+2. 🗣 Commented on [#45](https://github.com/SenZmaKi/Senpwai/issues/45#issuecomment-2211696957) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
+3. 🗣 Commented on [#685](https://github.com/clangen/musikcube/issues/685#issuecomment-2210277761) in [clangen/musikcube](https://github.com/clangen/musikcube)
+4. 🗣 Commented on [#685](https://github.com/clangen/musikcube/issues/685#issuecomment-2210274083) in [clangen/musikcube](https://github.com/clangen/musikcube)
+5. 🗣 Commented on [#685](https://github.com/clangen/musikcube/issues/685#issuecomment-2210245189) in [clangen/musikcube](https://github.com/clangen/musikcube)
 <!--END_SECTION:activity-->
 
 
