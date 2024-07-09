@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#11036](https://github.com/keepassxreboot/keepassxc/issues/11036) in [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
-2. 🗣 Commented on [#11036](https://github.com/keepassxreboot/keepassxc/issues/11036#issuecomment-2212543157) in [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
-3. ❗ Opened issue [#11036](https://github.com/keepassxreboot/keepassxc/issues/11036) in [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
-4. 🗣 Commented on [#45](https://github.com/SenZmaKi/Senpwai/issues/45#issuecomment-2211697374) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
-5. 🗣 Commented on [#45](https://github.com/SenZmaKi/Senpwai/issues/45#issuecomment-2211696957) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
+1. ❗ Opened issue [#1369](https://github.com/quickemu-project/quickemu/issues/1369) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+2. 🔒 Closed issue [#11036](https://github.com/keepassxreboot/keepassxc/issues/11036) in [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+3. 🗣 Commented on [#11036](https://github.com/keepassxreboot/keepassxc/issues/11036#issuecomment-2212543157) in [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+4. ❗ Opened issue [#11036](https://github.com/keepassxreboot/keepassxc/issues/11036) in [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+5. 🗣 Commented on [#45](https://github.com/SenZmaKi/Senpwai/issues/45#issuecomment-2211697374) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
 <!--END_SECTION:activity-->
 
 
