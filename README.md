@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1686](https://github.com/KRTirtho/spotube/issues/1686#issuecomment-2218014512) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-2. 🔒 Closed issue [#1686](https://github.com/KRTirtho/spotube/issues/1686) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
-3. 🗣 Commented on [#1369](https://github.com/quickemu-project/quickemu/issues/1369#issuecomment-2217359284) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
-4. ❗ Opened issue [#1369](https://github.com/quickemu-project/quickemu/issues/1369) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
-5. 🔒 Closed issue [#11036](https://github.com/keepassxreboot/keepassxc/issues/11036) in [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+1. ❗ Opened issue [#1370](https://github.com/quickemu-project/quickemu/issues/1370) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+2. 🗣 Commented on [#1686](https://github.com/KRTirtho/spotube/issues/1686#issuecomment-2218014512) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+3. 🔒 Closed issue [#1686](https://github.com/KRTirtho/spotube/issues/1686) in [KRTirtho/spotube](https://github.com/KRTirtho/spotube)
+4. 🗣 Commented on [#1369](https://github.com/quickemu-project/quickemu/issues/1369#issuecomment-2217359284) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+5. ❗ Opened issue [#1369](https://github.com/quickemu-project/quickemu/issues/1369) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
 <!--END_SECTION:activity-->
 
 
