@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1381](https://github.com/quickemu-project/quickemu/issues/1381#issuecomment-2227319483) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
-2. 🔒 Closed issue [#1381](https://github.com/quickemu-project/quickemu/issues/1381) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
-3. ❗ Opened issue [#1381](https://github.com/quickemu-project/quickemu/issues/1381) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
-4. 💪 Opened PR [#1373](https://github.com/quickemu-project/quickemu/pull/1373) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
-5. ❗ Opened issue [#1370](https://github.com/quickemu-project/quickemu/issues/1370) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+1. 🗣 Commented on [#1378](https://github.com/quickemu-project/quickemu/pull/1378#issuecomment-2227453590) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+2. 🗣 Commented on [#1381](https://github.com/quickemu-project/quickemu/issues/1381#issuecomment-2227319483) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+3. 🔒 Closed issue [#1381](https://github.com/quickemu-project/quickemu/issues/1381) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+4. ❗ Opened issue [#1381](https://github.com/quickemu-project/quickemu/issues/1381) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+5. 💪 Opened PR [#1373](https://github.com/quickemu-project/quickemu/pull/1373) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
 <!--END_SECTION:activity-->
 
 
