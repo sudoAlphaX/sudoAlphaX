@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#5](https://github.com/Jacksaur/Gorgeous-GRUB/pull/5) in [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB)
-2. ❌ Closed PR [#168](https://github.com/adi1090x/rofi/pull/168) in [adi1090x/rofi](https://github.com/adi1090x/rofi)
-3. ❗ Opened issue [#20875](https://github.com/termux/termux-packages/issues/20875) in [termux/termux-packages](https://github.com/termux/termux-packages)
-4. ❌ Closed PR [#1378](https://github.com/quickemu-project/quickemu/pull/1378) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
-5. 🗣 Commented on [#1378](https://github.com/quickemu-project/quickemu/pull/1378#issuecomment-2227453590) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
+1. 🗣 Commented on [#131](https://github.com/hyprwm/xdg-desktop-portal-hyprland/issues/131#issuecomment-2239018474) in [hyprwm/xdg-desktop-portal-hyprland](https://github.com/hyprwm/xdg-desktop-portal-hyprland)
+2. 💪 Opened PR [#5](https://github.com/Jacksaur/Gorgeous-GRUB/pull/5) in [Jacksaur/Gorgeous-GRUB](https://github.com/Jacksaur/Gorgeous-GRUB)
+3. ❌ Closed PR [#168](https://github.com/adi1090x/rofi/pull/168) in [adi1090x/rofi](https://github.com/adi1090x/rofi)
+4. ❗ Opened issue [#20875](https://github.com/termux/termux-packages/issues/20875) in [termux/termux-packages](https://github.com/termux/termux-packages)
+5. ❌ Closed PR [#1378](https://github.com/quickemu-project/quickemu/pull/1378) in [quickemu-project/quickemu](https://github.com/quickemu-project/quickemu)
 <!--END_SECTION:activity-->
 
 
