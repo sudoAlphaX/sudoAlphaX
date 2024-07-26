@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/lazykern/mprisence/pull/36) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
-2. ❗ Opened issue [#35](https://github.com/lazykern/mprisence/issues/35) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
-3. 🗣 Commented on [#6983](https://github.com/hyprwm/Hyprland/issues/6983#issuecomment-2243630482) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-4. ❗ Opened issue [#6983](https://github.com/hyprwm/Hyprland/issues/6983) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
-5. ❗ Opened issue [#6982](https://github.com/hyprwm/Hyprland/issues/6982) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+1. 💪 Opened PR [#1](https://github.com/Zai-Kun/dotfiles/pull/1) in [Zai-Kun/dotfiles](https://github.com/Zai-Kun/dotfiles)
+2. 💪 Opened PR [#36](https://github.com/lazykern/mprisence/pull/36) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+3. ❗ Opened issue [#35](https://github.com/lazykern/mprisence/issues/35) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+4. 🗣 Commented on [#6983](https://github.com/hyprwm/Hyprland/issues/6983#issuecomment-2243630482) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+5. ❗ Opened issue [#6983](https://github.com/hyprwm/Hyprland/issues/6983) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
 
 
