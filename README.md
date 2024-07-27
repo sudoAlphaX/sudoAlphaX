@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/lazykern/mprisence/issues/35#issuecomment-2254127680) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
-2. 🗣 Commented on [#48](https://github.com/SenZmaKi/Senpwai/issues/48#issuecomment-2254082921) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
-3. 🔒 Closed issue [#48](https://github.com/SenZmaKi/Senpwai/issues/48) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
-4. ❗ Opened issue [#48](https://github.com/SenZmaKi/Senpwai/issues/48) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
-5. 🗣 Commented on [#6983](https://github.com/hyprwm/Hyprland/issues/6983#issuecomment-2253773352) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
+1. 🔒 Closed issue [#35](https://github.com/lazykern/mprisence/issues/35) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+2. 🗣 Commented on [#35](https://github.com/lazykern/mprisence/issues/35#issuecomment-2254151651) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+3. 🗣 Commented on [#35](https://github.com/lazykern/mprisence/issues/35#issuecomment-2254127680) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+4. 🗣 Commented on [#48](https://github.com/SenZmaKi/Senpwai/issues/48#issuecomment-2254082921) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
+5. 🔒 Closed issue [#48](https://github.com/SenZmaKi/Senpwai/issues/48) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
 <!--END_SECTION:activity-->
 
 
