@@ -71,7 +71,7 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#55](https://github.com/SenZmaKi/Senpwai/pull/55) in [SenZmaKi/Senpwai](https://github.com/SenZmaKi/Senpwai)
+1. 💪 Opened PR [#2](https://github.com/BoopyTheFox/hyprpaper-gen/pull/2) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
 2. 💪 Opened PR [#1173](https://github.com/benbusby/whoogle-search/pull/1173) in [benbusby/whoogle-search](https://github.com/benbusby/whoogle-search)
 3. 💪 Opened PR [#14](https://github.com/declancm/maximize.nvim/pull/14) in [declancm/maximize.nvim](https://github.com/declancm/maximize.nvim)
 4. 🗣 Commented on [#6983](https://github.com/hyprwm/Hyprland/issues/6983#issuecomment-2258893256) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
