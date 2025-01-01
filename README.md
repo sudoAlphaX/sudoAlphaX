@@ -81,9 +81,9 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#450](https://github.com/lakinduakash/linux-wifi-hotspot/pull/450) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
-2. 🗣 Commented on [#1](https://github.com/SenZmaKi/Test/issues/1#issuecomment-2501669174) in [SenZmaKi/Test](https://github.com/SenZmaKi/Test)
-3. 💪 Opened PR [#2](https://github.com/BoopyTheFox/hyprpaper-gen/pull/2) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
+1. 💪 Opened PR [#3](https://github.com/BoopyTheFox/hyprpaper-gen/pull/3) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
+2. 💪 Opened PR [#450](https://github.com/lakinduakash/linux-wifi-hotspot/pull/450) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
+3. 🗣 Commented on [#1](https://github.com/SenZmaKi/Test/issues/1#issuecomment-2501669174) in [SenZmaKi/Test](https://github.com/SenZmaKi/Test)
 4. 🗣 Commented on [#6983](https://github.com/hyprwm/Hyprland/issues/6983#issuecomment-2258893256) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 5. 🗣 Commented on [#6983](https://github.com/hyprwm/Hyprland/issues/6983#issuecomment-2254516682) in [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland)
 <!--END_SECTION:activity-->
