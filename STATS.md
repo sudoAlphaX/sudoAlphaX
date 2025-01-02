@@ -71,11 +71,11 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#4](https://github.com/BoopyTheFox/hyprpaper-gen/pull/4) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
-2. ❌ Closed PR [#3](https://github.com/BoopyTheFox/hyprpaper-gen/pull/3) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
-3. 💪 Opened PR [#3](https://github.com/BoopyTheFox/hyprpaper-gen/pull/3) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
-4. 💪 Opened PR [#450](https://github.com/lakinduakash/linux-wifi-hotspot/pull/450) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
-5. 🗣 Commented on [#1](https://github.com/SenZmaKi/Test/issues/1#issuecomment-2501669174) in [SenZmaKi/Test](https://github.com/SenZmaKi/Test)
+1. 💪 Opened PR [#15412](https://github.com/tldr-pages/tldr/pull/15412) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+2. 💪 Opened PR [#4](https://github.com/BoopyTheFox/hyprpaper-gen/pull/4) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
+3. ❌ Closed PR [#3](https://github.com/BoopyTheFox/hyprpaper-gen/pull/3) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
+4. 💪 Opened PR [#3](https://github.com/BoopyTheFox/hyprpaper-gen/pull/3) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
+5. 💪 Opened PR [#450](https://github.com/lakinduakash/linux-wifi-hotspot/pull/450) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
 6. 🔒 Closed issue [#35](https://github.com/lazykern/mprisence/issues/35) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
 7. 🗣 Commented on [#35](https://github.com/lazykern/mprisence/issues/35#issuecomment-2254151651) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
 8. 🗣 Commented on [#35](https://github.com/lazykern/mprisence/issues/35#issuecomment-2254127680) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
