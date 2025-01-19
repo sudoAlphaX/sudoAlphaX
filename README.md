@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#54](https://github.com/Benexl/FastAnime/pull/54) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
-2. 🗣 Commented on [#11036](https://github.com/keepassxreboot/keepassxc/issues/11036#issuecomment-2585357793) in [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
-3. 💪 Opened PR [#50](https://github.com/Benexl/FastAnime/pull/50) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
-4. 💪 Opened PR [#49](https://github.com/Benexl/FastAnime/pull/49) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
-5. 💪 Opened PR [#28](https://github.com/Benexl/yt-x/pull/28) in [Benexl/yt-x](https://github.com/Benexl/yt-x)
+1. 🔒 Closed issue [#3235](https://github.com/Alexays/Waybar/issues/3235) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+2. 🗣 Commented on [#3235](https://github.com/Alexays/Waybar/issues/3235#issuecomment-2600389314) in [Alexays/Waybar](https://github.com/Alexays/Waybar)
+3. 💪 Opened PR [#54](https://github.com/Benexl/FastAnime/pull/54) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
+4. 🗣 Commented on [#11036](https://github.com/keepassxreboot/keepassxc/issues/11036#issuecomment-2585357793) in [keepassxreboot/keepassxc](https://github.com/keepassxreboot/keepassxc)
+5. 💪 Opened PR [#50](https://github.com/Benexl/FastAnime/pull/50) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
 <!--END_SECTION:activity-->
 
 
