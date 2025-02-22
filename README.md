@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/BoopyTheFox/hyprpaper-gen/pull/4#issuecomment-2674258373) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
-2. 💪 Opened PR [#680](https://github.com/slgobinath/SafeEyes/pull/680) in [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes)
-3. 💪 Opened PR [#6654](https://github.com/netblue30/firejail/pull/6654) in [netblue30/firejail](https://github.com/netblue30/firejail)
-4. 🗣 Commented on [#28](https://github.com/Benexl/yt-x/pull/28#issuecomment-2661211622) in [Benexl/yt-x](https://github.com/Benexl/yt-x)
-5. 🗣 Commented on [#678](https://github.com/slgobinath/SafeEyes/pull/678#issuecomment-2661071250) in [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes)
+1. 🗣 Commented on [#6654](https://github.com/netblue30/firejail/pull/6654#issuecomment-2674428401) in [netblue30/firejail](https://github.com/netblue30/firejail)
+2. 🗣 Commented on [#6654](https://github.com/netblue30/firejail/pull/6654#issuecomment-2674350448) in [netblue30/firejail](https://github.com/netblue30/firejail)
+3. 🗣 Commented on [#6654](https://github.com/netblue30/firejail/pull/6654#issuecomment-2674349652) in [netblue30/firejail](https://github.com/netblue30/firejail)
+4. 🗣 Commented on [#4](https://github.com/BoopyTheFox/hyprpaper-gen/pull/4#issuecomment-2674258373) in [BoopyTheFox/hyprpaper-gen](https://github.com/BoopyTheFox/hyprpaper-gen)
+5. 💪 Opened PR [#680](https://github.com/slgobinath/SafeEyes/pull/680) in [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes)
 <!--END_SECTION:activity-->
 
 
