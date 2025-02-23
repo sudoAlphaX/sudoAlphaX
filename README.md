@@ -207,15 +207,15 @@ View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/b
 <p>
   <a href = "https://twitter.com/sudoAlphaX">
     <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/x/x-light.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/x/x.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/x/x-light.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/x/x.svg">
       <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/x/x.svg" width=46 alt="X (Twitter) - @sudoAlphaX">
     </picture>
   </a>
-  <a href = https://www.reddit.com/r/sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/reddit/reddit.svg" width=46 alt="Reddit - r/sudoAlphaX"/></a>&nbsp;
-  <a href = https://www.instagram.com/sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/instagram/instagram.svg" width=46 alt="Instagram - @sudoAlphaX"/></a>&nbsp;
-  <a href = https://t.me/sudoalphax><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/telegram/telegram2.svg" width=46 alt="Telegram - @sudoAlphaX"/></a>&nbsp;
-  <a href = https://www.youtube.com/@sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/icons/youtube/youtube.svg" height=46 alt="Youtube - @sudoAlphaX"/></a>
+  <a href = https://www.reddit.com/r/sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/reddit/reddit.svg" width=46 alt="Reddit - r/sudoAlphaX"/></a>&nbsp;
+  <a href = https://www.instagram.com/sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/instagram/instagram.svg" width=46 alt="Instagram - @sudoAlphaX"/></a>&nbsp;
+  <a href = https://t.me/sudoalphax><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/telegram/telegram2.svg" width=46 alt="Telegram - @sudoAlphaX"/></a>&nbsp;
+  <a href = https://www.youtube.com/@sudoAlphaX><img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/public/logos/social%20media/youtube/youtube.svg" height=46 alt="Youtube - @sudoAlphaX"/></a>
 </p>
 
 <hr>
