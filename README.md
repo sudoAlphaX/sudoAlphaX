@@ -91,8 +91,6 @@
 
 </details>
 
-Check out my GitHub Wrapped 2023 by [githubwrapped.io](https://www.githubwrapped.io/) at https://www.githubwrapped.io/sudoAlphaX
-
 View additional statistics in <a href=https://github.com/sudoAlphaX/sudoAlphaX/blob/main/STATS.md>STATS.md</a> file.
 
 <h2>My skills</h2>
