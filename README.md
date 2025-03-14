@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#759](https://github.com/z411/trackma/pull/759#issuecomment-2708388926) in [z411/trackma](https://github.com/z411/trackma)
-2. 🗣 Commented on [#680](https://github.com/slgobinath/SafeEyes/pull/680#issuecomment-2706235660) in [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes)
-3. 🗣 Commented on [#72](https://github.com/Benexl/FastAnime/pull/72#issuecomment-2692734379) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
-4. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2690247685) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
-5. 🗣 Commented on [#5079](https://github.com/netblue30/firejail/issues/5079#issuecomment-2684196899) in [netblue30/firejail](https://github.com/netblue30/firejail)
+1. 💪 Opened PR [#39](https://github.com/lazykern/mprisence/pull/39) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+2. 🗣 Commented on [#759](https://github.com/z411/trackma/pull/759#issuecomment-2708388926) in [z411/trackma](https://github.com/z411/trackma)
+3. 🗣 Commented on [#680](https://github.com/slgobinath/SafeEyes/pull/680#issuecomment-2706235660) in [slgobinath/SafeEyes](https://github.com/slgobinath/SafeEyes)
+4. 🗣 Commented on [#72](https://github.com/Benexl/FastAnime/pull/72#issuecomment-2692734379) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
+5. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2690247685) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
 <!--END_SECTION:activity-->
 
 
