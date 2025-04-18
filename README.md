@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#41](https://github.com/lazykern/mprisence/issues/41) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
-2. ❌ Reopened PR [#81](https://github.com/Benexl/FastAnime/pull/81) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
-3. 🗣 Commented on [#81](https://github.com/Benexl/FastAnime/pull/81#issuecomment-2757154193) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
-4. 💪 Opened PR [#82](https://github.com/Benexl/FastAnime/pull/82) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
-5. ❌ Closed PR [#81](https://github.com/Benexl/FastAnime/pull/81) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
+1. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815863235) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+2. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815851844) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+3. ❗ Opened issue [#41](https://github.com/lazykern/mprisence/issues/41) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+4. ❌ Reopened PR [#81](https://github.com/Benexl/FastAnime/pull/81) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
+5. 🗣 Commented on [#81](https://github.com/Benexl/FastAnime/pull/81#issuecomment-2757154193) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
 <!--END_SECTION:activity-->
 
 
