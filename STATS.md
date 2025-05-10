@@ -71,12 +71,12 @@
   <summary>View Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#75](https://github.com/hyprwm/hyprlang/issues/75) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
-2. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2823426523) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
-3. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2821908975) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
-4. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815863235) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
-5. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815851844) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
-6. ❌ Reopened PR [#81](https://github.com/Benexl/FastAnime/pull/81) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
+1. 🗣 Commented on [#75](https://github.com/hyprwm/hyprlang/issues/75#issuecomment-2866543537) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
+2. ❗ Opened issue [#75](https://github.com/hyprwm/hyprlang/issues/75) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
+3. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2823426523) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
+4. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2821908975) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
+5. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815863235) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+6. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815851844) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
 7. 🗣 Commented on [#81](https://github.com/Benexl/FastAnime/pull/81#issuecomment-2757154193) in [Benexl/FastAnime](https://github.com/Benexl/FastAnime)
 8. 💪 Opened PR [#39](https://github.com/lazykern/mprisence/pull/39) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
 9. 🗣 Commented on [#759](https://github.com/z411/trackma/pull/759#issuecomment-2708388926) in [z411/trackma](https://github.com/z411/trackma)
