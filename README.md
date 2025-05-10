@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2823426523) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
-2. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2821908975) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
-3. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815863235) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
-4. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815851844) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
-5. ❗ Opened issue [#41](https://github.com/lazykern/mprisence/issues/41) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+1. ❗ Opened issue [#75](https://github.com/hyprwm/hyprlang/issues/75) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
+2. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2823426523) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
+3. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2821908975) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
+4. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815863235) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+5. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815851844) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
 <!--END_SECTION:activity-->
 
 
