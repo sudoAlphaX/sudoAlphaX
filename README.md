@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#75](https://github.com/hyprwm/hyprlang/issues/75#issuecomment-2866543537) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
-2. ❗ Opened issue [#75](https://github.com/hyprwm/hyprlang/issues/75) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
-3. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2823426523) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
-4. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2821908975) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
-5. 🗣 Commented on [#41](https://github.com/lazykern/mprisence/issues/41#issuecomment-2815863235) in [lazykern/mprisence](https://github.com/lazykern/mprisence)
+1. 💪 Opened PR [#1067](https://github.com/hyprwm/hyprland-wiki/pull/1067) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+2. 🗣 Commented on [#75](https://github.com/hyprwm/hyprlang/issues/75#issuecomment-2866543537) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
+3. ❗ Opened issue [#75](https://github.com/hyprwm/hyprlang/issues/75) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
+4. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2823426523) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
+5. 🗣 Commented on [#466](https://github.com/lakinduakash/linux-wifi-hotspot/pull/466#issuecomment-2821908975) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
 <!--END_SECTION:activity-->
 
 
