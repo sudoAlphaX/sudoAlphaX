@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#36](https://github.com/nosduco/remote-sshfs.nvim/pull/36) in [nosduco/remote-sshfs.nvim](https://github.com/nosduco/remote-sshfs.nvim)
-2. ❌ Closed PR [#1067](https://github.com/hyprwm/hyprland-wiki/pull/1067) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-3. 🗣 Commented on [#1067](https://github.com/hyprwm/hyprland-wiki/pull/1067#issuecomment-2880005416) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-4. 🗣 Commented on [#1067](https://github.com/hyprwm/hyprland-wiki/pull/1067#issuecomment-2876502330) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
-5. 💪 Opened PR [#1067](https://github.com/hyprwm/hyprland-wiki/pull/1067) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+1. 🗣 Commented on [#31](https://github.com/nosduco/remote-sshfs.nvim/pull/31#issuecomment-2886874330) in [nosduco/remote-sshfs.nvim](https://github.com/nosduco/remote-sshfs.nvim)
+2. 💪 Opened PR [#36](https://github.com/nosduco/remote-sshfs.nvim/pull/36) in [nosduco/remote-sshfs.nvim](https://github.com/nosduco/remote-sshfs.nvim)
+3. ❌ Closed PR [#1067](https://github.com/hyprwm/hyprland-wiki/pull/1067) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+4. 🗣 Commented on [#1067](https://github.com/hyprwm/hyprland-wiki/pull/1067#issuecomment-2880005416) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
+5. 🗣 Commented on [#1067](https://github.com/hyprwm/hyprland-wiki/pull/1067#issuecomment-2876502330) in [hyprwm/hyprland-wiki](https://github.com/hyprwm/hyprland-wiki)
 <!--END_SECTION:activity-->
 
 
