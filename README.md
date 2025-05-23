@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/mzivic7/endcord/pull/10#issuecomment-2899782606) in [mzivic7/endcord](https://github.com/mzivic7/endcord)
-2. 💪 Opened PR [#10](https://github.com/mzivic7/endcord/pull/10) in [mzivic7/endcord](https://github.com/mzivic7/endcord)
-3. 🗣 Commented on [#75](https://github.com/hyprwm/hyprlang/issues/75#issuecomment-2888855040) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
-4. 🔒 Closed issue [#75](https://github.com/hyprwm/hyprlang/issues/75) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
-5. 🗣 Commented on [#31](https://github.com/nosduco/remote-sshfs.nvim/pull/31#issuecomment-2886874330) in [nosduco/remote-sshfs.nvim](https://github.com/nosduco/remote-sshfs.nvim)
+1. 🗣 Commented on [#171](https://github.com/m4xshen/hardtime.nvim/pull/171#issuecomment-2903492827) in [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim)
+2. 🗣 Commented on [#10](https://github.com/mzivic7/endcord/pull/10#issuecomment-2899782606) in [mzivic7/endcord](https://github.com/mzivic7/endcord)
+3. 💪 Opened PR [#10](https://github.com/mzivic7/endcord/pull/10) in [mzivic7/endcord](https://github.com/mzivic7/endcord)
+4. 🗣 Commented on [#75](https://github.com/hyprwm/hyprlang/issues/75#issuecomment-2888855040) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
+5. 🔒 Closed issue [#75](https://github.com/hyprwm/hyprlang/issues/75) in [hyprwm/hyprlang](https://github.com/hyprwm/hyprlang)
 <!--END_SECTION:activity-->
 
 
