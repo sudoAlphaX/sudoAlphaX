@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6779](https://github.com/netblue30/firejail/pull/6779#issuecomment-2974687599) in [netblue30/firejail](https://github.com/netblue30/firejail)
-2. 🗣 Commented on [#6779](https://github.com/netblue30/firejail/pull/6779#issuecomment-2974686733) in [netblue30/firejail](https://github.com/netblue30/firejail)
-3. 💪 Opened PR [#6779](https://github.com/netblue30/firejail/pull/6779) in [netblue30/firejail](https://github.com/netblue30/firejail)
-4. 💪 Opened PR [#6777](https://github.com/netblue30/firejail/pull/6777) in [netblue30/firejail](https://github.com/netblue30/firejail)
-5. 💪 Opened PR [#16823](https://github.com/tldr-pages/tldr/pull/16823) in [tldr-pages/tldr](https://github.com/tldr-pages/tldr)
+1. 🗣 Commented on [#6779](https://github.com/netblue30/firejail/pull/6779#issuecomment-2975165249) in [netblue30/firejail](https://github.com/netblue30/firejail)
+2. 🗣 Commented on [#6779](https://github.com/netblue30/firejail/pull/6779#issuecomment-2974687599) in [netblue30/firejail](https://github.com/netblue30/firejail)
+3. 🗣 Commented on [#6779](https://github.com/netblue30/firejail/pull/6779#issuecomment-2974686733) in [netblue30/firejail](https://github.com/netblue30/firejail)
+4. 💪 Opened PR [#6779](https://github.com/netblue30/firejail/pull/6779) in [netblue30/firejail](https://github.com/netblue30/firejail)
+5. 💪 Opened PR [#6777](https://github.com/netblue30/firejail/pull/6777) in [netblue30/firejail](https://github.com/netblue30/firejail)
 <!--END_SECTION:activity-->
 
 
