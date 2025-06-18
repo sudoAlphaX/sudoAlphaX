@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6781](https://github.com/netblue30/firejail/pull/6781#issuecomment-2975880350) in [netblue30/firejail](https://github.com/netblue30/firejail)
-2. 💪 Opened PR [#6781](https://github.com/netblue30/firejail/pull/6781) in [netblue30/firejail](https://github.com/netblue30/firejail)
-3. 🗣 Commented on [#6779](https://github.com/netblue30/firejail/pull/6779#issuecomment-2975165249) in [netblue30/firejail](https://github.com/netblue30/firejail)
-4. 🗣 Commented on [#6779](https://github.com/netblue30/firejail/pull/6779#issuecomment-2974687599) in [netblue30/firejail](https://github.com/netblue30/firejail)
-5. 🗣 Commented on [#6779](https://github.com/netblue30/firejail/pull/6779#issuecomment-2974686733) in [netblue30/firejail](https://github.com/netblue30/firejail)
+1. 🗣 Commented on [#80](https://github.com/mvllow/modes.nvim/pull/80#issuecomment-2985533841) in [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim)
+2. 🗣 Commented on [#80](https://github.com/mvllow/modes.nvim/pull/80#issuecomment-2985524485) in [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim)
+3. 🗣 Commented on [#6781](https://github.com/netblue30/firejail/pull/6781#issuecomment-2975880350) in [netblue30/firejail](https://github.com/netblue30/firejail)
+4. 💪 Opened PR [#6781](https://github.com/netblue30/firejail/pull/6781) in [netblue30/firejail](https://github.com/netblue30/firejail)
+5. 🗣 Commented on [#6779](https://github.com/netblue30/firejail/pull/6779#issuecomment-2975165249) in [netblue30/firejail](https://github.com/netblue30/firejail)
 <!--END_SECTION:activity-->
 
 
