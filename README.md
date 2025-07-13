@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#6781](https://github.com/netblue30/firejail/pull/6781#issuecomment-3005396346) in [netblue30/firejail](https://github.com/netblue30/firejail)
-2. 💪 Opened PR [#779](https://github.com/z411/trackma/pull/779) in [z411/trackma](https://github.com/z411/trackma)
-3. 🗣 Commented on [#775](https://github.com/z411/trackma/issues/775#issuecomment-2993561667) in [z411/trackma](https://github.com/z411/trackma)
-4. 🗣 Commented on [#6789](https://github.com/netblue30/firejail/pull/6789#issuecomment-2989480489) in [netblue30/firejail](https://github.com/netblue30/firejail)
-5. 🗣 Commented on [#80](https://github.com/mvllow/modes.nvim/pull/80#issuecomment-2985565293) in [mvllow/modes.nvim](https://github.com/mvllow/modes.nvim)
+1. 🗣 Commented on [#1](https://github.com/KilDesu/ani-skip/pull/1#issuecomment-3067202524) in [KilDesu/ani-skip](https://github.com/KilDesu/ani-skip)
+2. 💪 Opened PR [#1](https://github.com/KilDesu/ani-skip/pull/1) in [KilDesu/ani-skip](https://github.com/KilDesu/ani-skip)
+3. 💪 Opened PR [#780](https://github.com/z411/trackma/pull/780) in [z411/trackma](https://github.com/z411/trackma)
+4. 🗣 Commented on [#6781](https://github.com/netblue30/firejail/pull/6781#issuecomment-3005396346) in [netblue30/firejail](https://github.com/netblue30/firejail)
+5. 💪 Opened PR [#779](https://github.com/z411/trackma/pull/779) in [z411/trackma](https://github.com/z411/trackma)
 <!--END_SECTION:activity-->
 
 
