@@ -81,11 +81,11 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/KilDesu/ani-skip/pull/1#issuecomment-3067202524) in [KilDesu/ani-skip](https://github.com/KilDesu/ani-skip)
-2. 💪 Opened PR [#1](https://github.com/KilDesu/ani-skip/pull/1) in [KilDesu/ani-skip](https://github.com/KilDesu/ani-skip)
-3. 💪 Opened PR [#780](https://github.com/z411/trackma/pull/780) in [z411/trackma](https://github.com/z411/trackma)
-4. 🗣 Commented on [#6781](https://github.com/netblue30/firejail/pull/6781#issuecomment-3005396346) in [netblue30/firejail](https://github.com/netblue30/firejail)
-5. 💪 Opened PR [#779](https://github.com/z411/trackma/pull/779) in [z411/trackma](https://github.com/z411/trackma)
+1. 🗣 Commented on [#1548](https://github.com/pystardust/ani-cli/pull/1548#issuecomment-3078272600) in [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
+2. 🗣 Commented on [#1548](https://github.com/pystardust/ani-cli/pull/1548#issuecomment-3078269433) in [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
+3. 🗣 Commented on [#1](https://github.com/KilDesu/ani-skip/pull/1#issuecomment-3067202524) in [KilDesu/ani-skip](https://github.com/KilDesu/ani-skip)
+4. 💪 Opened PR [#1](https://github.com/KilDesu/ani-skip/pull/1) in [KilDesu/ani-skip](https://github.com/KilDesu/ani-skip)
+5. 💪 Opened PR [#780](https://github.com/z411/trackma/pull/780) in [z411/trackma](https://github.com/z411/trackma)
 <!--END_SECTION:activity-->
 
 
