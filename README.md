@@ -83,9 +83,9 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#344](https://github.com/lakinduakash/linux-wifi-hotspot/issues/344#issuecomment-3092426327) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
 2. 🗣 Commented on [#344](https://github.com/lakinduakash/linux-wifi-hotspot/issues/344#issuecomment-3092425577) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
-3. 💪 Opened PR [#1548](undefined) in [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
-4. 💪 Opened PR [#1](undefined) in [KilDesu/ani-skip](https://github.com/KilDesu/ani-skip)
-5. 💪 Opened PR [#780](undefined) in [z411/trackma](https://github.com/z411/trackma)
+3. 🗣 Commented on [#1548](https://github.com/pystardust/ani-cli/pull/1548#issuecomment-3078272600) in [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
+4. 🗣 Commented on [#1548](https://github.com/pystardust/ani-cli/pull/1548#issuecomment-3078269433) in [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
+5. 🗣 Commented on [#1](https://github.com/KilDesu/ani-skip/pull/1#issuecomment-3067202524) in [KilDesu/ani-skip](https://github.com/KilDesu/ani-skip)
 <!--END_SECTION:activity-->
 
 
