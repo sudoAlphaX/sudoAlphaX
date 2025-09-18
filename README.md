@@ -81,7 +81,7 @@
   <summary>Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#344](https://github.com/lakinduakash/linux-wifi-hotspot/issues/344#issuecomment-3092426327) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
+1. 🗣 Commented on [#1](https://github.com/sudoAlphaX/dotfiles/issues/1#issuecomment-3298067842) in [sudoAlphaX/dotfiles](https://github.com/sudoAlphaX/dotfiles)
 2. 🗣 Commented on [#344](https://github.com/lakinduakash/linux-wifi-hotspot/issues/344#issuecomment-3092425577) in [lakinduakash/linux-wifi-hotspot](https://github.com/lakinduakash/linux-wifi-hotspot)
 3. 🗣 Commented on [#1548](https://github.com/pystardust/ani-cli/pull/1548#issuecomment-3078272600) in [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
 4. 🗣 Commented on [#1548](https://github.com/pystardust/ani-cli/pull/1548#issuecomment-3078269433) in [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
