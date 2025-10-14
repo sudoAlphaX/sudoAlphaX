@@ -73,7 +73,7 @@
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#780](https://github.com/z411/trackma/pull/780#issuecomment-3363358888) in [z411/trackma](https://github.com/z411/trackma)
 2. 🗣 Commented on [#779](https://github.com/z411/trackma/pull/779#issuecomment-3363358573) in [z411/trackma](https://github.com/z411/trackma)
-3. 🗣 Commented on [#1548](https://github.com/pystardust/ani-cli/pull/1548#issuecomment-3078272600) in [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
+3. 🗣 Commented on [#1](https://github.com/sudoAlphaX/dotfiles/issues/1#issuecomment-3298067842) in [sudoAlphaX/dotfiles](https://github.com/sudoAlphaX/dotfiles)
 4. 🗣 Commented on [#1548](https://github.com/pystardust/ani-cli/pull/1548#issuecomment-3078269433) in [pystardust/ani-cli](https://github.com/pystardust/ani-cli)
 5. 🗣 Commented on [#1](https://github.com/KilDesu/ani-skip/pull/1#issuecomment-3067202524) in [KilDesu/ani-skip](https://github.com/KilDesu/ani-skip)
 6. 💪 Opened PR [#1](https://github.com/KilDesu/ani-skip/pull/1) in [KilDesu/ani-skip](https://github.com/KilDesu/ani-skip)
